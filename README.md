@@ -4,7 +4,7 @@
 
 ```kusto
 Pierre Thoor
-| where Title == 'To be announced soon'
+| where Title == 'Trusted Microsoft Cloud Cybersecurity Advisor'
   and Focus == 'Microsoft Azure/Microsoft Sentinel/Defender/Cybersecurity' 
 | project 
 Country: Sweden, 
