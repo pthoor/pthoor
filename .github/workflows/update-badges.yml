@@ -13,5 +13,5 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@2.3.0
         with:
-          CREDLY_SORT: POPULAR
+          CREDLY_SORT: RECENT
           CREDLY_USER: pierre-thoor
