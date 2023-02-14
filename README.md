@@ -25,6 +25,10 @@ Blog: 'https://thoor.tech'
 - 📫 How to reach me: See below!
 - ⚡ Fun fact: Love ice cream and hate warm weather 😂
 
+### Recent blog posts
+<!-- blog-post-list:start -->
+<!-- blog-post-list:end -->
+
 ### 🎓 Certificates & Trainings [@Credly](https://www.credly.com/users/pierre-thoor/badges?sort=-state_updated_at&page=1)
 <!--START_SECTION:badges-->
 
