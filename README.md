@@ -25,6 +25,8 @@ Blog: 'https://thoor.tech'
 - 📫 How to reach me: See below!
 - ⚡ Fun fact: Love ice cream and hate warm weather 😂
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 [![MVP Badge](https://img.shields.io/badge/-Microsoft-blue?style=flat-square&logo=Microsoft&logoColor=white&link=https://mvp.microsoft.com/en-us/PublicProfile/5004683)](https://mvp.microsoft.com/en-us/PublicProfile/5004683)
 [![Twitter Badge](https://img.shields.io/twitter/follow/PierreThoor?style=social)](https://twitter.com/PierreThoor)
