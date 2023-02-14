@@ -18,6 +18,8 @@ jobs:
         uses: ErrorGamer2000/github-readme-blog-post-action@v1
         with:
           feed_urls: https://pthoor.github.io/feed.xml
+          max_posts_per_url: 5
+          show_feed_data: true
           output_dir: blog-posts
           locale: en-US
           time_zone: UTC
