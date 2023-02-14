@@ -25,6 +25,7 @@ Blog: 'https://thoor.tech'
 - 📫 How to reach me: See below!
 - ⚡ Fun fact: Love ice cream and hate warm weather 😂
 
+### 🎓 Certificates & Trainings [@Credly](https://www.credly.com/users/pierre-thoor/badges?sort=-state_updated_at&page=1)
 <!--START_SECTION:badges-->
 
 [![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/0abbb76b-77cc-4fc9-87b7-42844dd36762 "Microsoft Certified: Azure Fundamentals")
