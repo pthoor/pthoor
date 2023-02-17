@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
 
-![](https://visitor-badge.glitch.me/badge?page_id=pthoor.pthoor)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpthoor%2Fpthoor&labelColor=%232ccce4&countColor=%23555555)
 
 ```kusto
 Pierre Thoor
