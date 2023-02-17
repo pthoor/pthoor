@@ -1,6 +1,8 @@
-### Hi there 👋
+# Hi there 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
+
+![](https://visitor-badge.glitch.me/badge?page_id=pthoor.pthoor)
 
 ```kusto
 Pierre Thoor
@@ -16,7 +18,7 @@ Blog: 'https://thoor.tech'
 
 ![MVP_Badge_Preferred_Blue3005_RGB](https://user-images.githubusercontent.com/34333810/197189980-e067690f-fc0c-4f2c-b7c6-425bcf53b37d.png)
 
-### About me 
+# 😎 About me 
 
 - 🔭 I’m currently working on KQL, Azure Arc, Defender for Cloud, Sentinel, and getting CySA+ certification
 - 🌱 I’m currently learning even more about cybersecurity
@@ -25,7 +27,7 @@ Blog: 'https://thoor.tech'
 - 📫 How to reach me: See below!
 - ⚡ Fun fact: Love ice cream and hate warm weather 😂
 
-### Recent blog posts
+# ✍️ Blog and writing
 <!-- blog-post-list:start -->
 ## Thoor.tech
 
@@ -45,7 +47,22 @@ Blog: 'https://thoor.tech'
 
 <!-- blog-post-list:end -->
 
-### 🎓 Certificates & Trainings [@Credly](https://www.credly.com/users/pierre-thoor/badges?sort=-state_updated_at&page=1)
+# 📈 GitHub Stats
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=pthoor&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=pthoor&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=pthoor&show_icons=true" />
+</picture>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pthoor&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/pthoor/github-readme-stats)
+
+# 🎓 Certificates & Trainings [@Credly](https://www.credly.com/users/pierre-thoor/badges?sort=-state_updated_at&page=1)
 <!--START_SECTION:badges-->
 
 [![Kusto Detective Agency - Complete](https://images.credly.com/size/110x110/images/6726e724-5ce8-477e-93f5-6b39d6933273/image.png)](http://www.credly.com/badges/8c8f51b7-e1ba-4213-9f9b-0c16cafe5ceb "Kusto Detective Agency - Complete")
@@ -98,6 +115,7 @@ Blog: 'https://thoor.tech'
 [![Microsoft 365 Certified: Enterprise Administrator Expert](https://images.credly.com/size/110x110/images/dfa4cb20-16ed-42ca-90a5-6528b62ee651/microsoft365-enterprise-adminstrator-expert-600x600.png)](http://www.credly.com/badges/d04f2e88-341e-430d-a9c9-c1c7cef357f5 "Microsoft 365 Certified: Enterprise Administrator Expert")
 <!--END_SECTION:badges-->
 
+# 🔔 Follow me
 [![MVP Badge](https://img.shields.io/badge/-Microsoft-blue?style=flat-square&logo=Microsoft&logoColor=white&link=https://mvp.microsoft.com/en-us/PublicProfile/5004683)](https://mvp.microsoft.com/en-us/PublicProfile/5004683)
 [![Twitter Badge](https://img.shields.io/twitter/follow/PierreThoor?style=social)](https://twitter.com/PierreThoor)
 [![Linkedin Badge](https://img.shields.io/badge/-PierreThoor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pierrethoor/)](https://www.linkedin.com/in/pierrethoor/) 
