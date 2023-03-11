@@ -33,16 +33,16 @@ Blog: 'https://thoor.tech'
 
 
 
-[Read more](https://pthoor.github.io/)
-> Last updated: Saturday, March 4, 2023 at 12:20:45 AM
+[Read more](https://thoor.tech/)
+> Last updated: Saturday, March 11, 2023 at 12:19:11 AM
 
 > Showing 5 of 10 posts.
 
-[![Defender for Office 365 Blog Series - Part 2](https://raw.githubusercontent.com/pthoor/pthoor/main/blog-posts/Thoor.tech/Defender_for_Office_365_Blog_Series_-_Part_2.svg)](https://pthoor.github.io/defender-for-office-365-blog-series-part2/)
-[![Defender for Office 365 Blog Series](https://raw.githubusercontent.com/pthoor/pthoor/main/blog-posts/Thoor.tech/Defender_for_Office_365_Blog_Series.svg)](https://pthoor.github.io/defender-for-office-365-blog-series/)
-[![Fixing Azure SQL long-term backup retention restore](https://raw.githubusercontent.com/pthoor/pthoor/main/blog-posts/Thoor.tech/Fixing_Azure_SQL_long-term_backup_retention_restore.svg)](https://pthoor.github.io/azure-sql-ltr-restore-error/)
-[![Kusto Detective Agency - Hints](https://raw.githubusercontent.com/pthoor/pthoor/main/blog-posts/Thoor.tech/Kusto_Detective_Agency_-_Hints.svg)](https://pthoor.github.io/kusto-detective-agency/)
-[![Microsoft Defender External Attack Surface Management (EASM)](https://raw.githubusercontent.com/pthoor/pthoor/main/blog-posts/Thoor.tech/Microsoft_Defender_External_Attack_Surface_Management_(EASM).svg)](https://pthoor.github.io/defender-easm-start-guide/)
+[![Defender for Office 365 Blog Series - Part 2](https://raw.githubusercontent.com/pthoor/pthoor/main/blog-posts/Thoor.tech/Defender_for_Office_365_Blog_Series_-_Part_2.svg)](https://thoor.tech/defender-for-office-365-blog-series-part2/)
+[![Defender for Office 365 Blog Series](https://raw.githubusercontent.com/pthoor/pthoor/main/blog-posts/Thoor.tech/Defender_for_Office_365_Blog_Series.svg)](https://thoor.tech/defender-for-office-365-blog-series/)
+[![Fixing Azure SQL long-term backup retention restore](https://raw.githubusercontent.com/pthoor/pthoor/main/blog-posts/Thoor.tech/Fixing_Azure_SQL_long-term_backup_retention_restore.svg)](https://thoor.tech/azure-sql-ltr-restore-error/)
+[![Kusto Detective Agency - Hints](https://raw.githubusercontent.com/pthoor/pthoor/main/blog-posts/Thoor.tech/Kusto_Detective_Agency_-_Hints.svg)](https://thoor.tech/kusto-detective-agency/)
+[![Microsoft Defender External Attack Surface Management (EASM)](https://raw.githubusercontent.com/pthoor/pthoor/main/blog-posts/Thoor.tech/Microsoft_Defender_External_Attack_Surface_Management_(EASM).svg)](https://thoor.tech/defender-easm-start-guide/)
 
 
 <!-- blog-post-list:end -->
