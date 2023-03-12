@@ -65,6 +65,8 @@ Blog: 'https://thoor.tech'
 # 🎓 Certificates & Trainings [@Credly](https://www.credly.com/users/pierre-thoor/badges?sort=-state_updated_at&page=1)
 <!--START_SECTION:badges-->
 
+[![Cloud Security Product Champion](https://images.credly.com/size/110x110/images/7941cf3f-4295-4553-a57f-f0abf155d24e/image.png)](http://www.credly.com/badges/a729e668-aeb6-4bcd-936c-66fb8d5ce12d "Cloud Security Product Champion")
+[![Microsoft Certified Trainer 2023-2024](https://images.credly.com/size/110x110/images/fd6bb2af-2f05-4d9b-a23e-39f8e309a82d/image.png)](http://www.credly.com/badges/28ca6677-12e3-4849-9ea0-63c73fe79aa7 "Microsoft Certified Trainer 2023-2024")
 [![GitHub Administration](https://images.credly.com/size/110x110/images/2787e1d9-afd8-4226-8558-52a4d0fff528/image.png)](http://www.credly.com/badges/d49287b4-3c4d-485d-9cde-519ad88f1c80 "GitHub Administration")
 [![Kusto Detective Agency - Complete](https://images.credly.com/size/110x110/images/6726e724-5ce8-477e-93f5-6b39d6933273/image.png)](http://www.credly.com/badges/8c8f51b7-e1ba-4213-9f9b-0c16cafe5ceb "Kusto Detective Agency - Complete")
 [![Kusto Detective Agency - Case #5 Badge](https://images.credly.com/size/110x110/images/43b452c6-89f2-4649-bb84-19f3166a833e/image.png)](http://www.credly.com/badges/7e3aa69b-5a82-4f8d-8d17-c6e4564c8e89 "Kusto Detective Agency - Case #5 Badge")
@@ -79,7 +81,7 @@ Blog: 'https://thoor.tech'
 [![Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://images.credly.com/size/110x110/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png)](http://www.credly.com/badges/5d4c597d-aecd-4294-aeb3-4174f50ed36d "Microsoft Certified: Security, Compliance, and Identity Fundamentals")
 [![Microsoft 365 Certified: Fundamentals](https://images.credly.com/size/110x110/images/0c6d9839-f468-4adc-987d-5cfae4a9ee67/image.png)](http://www.credly.com/badges/5fc7cc0b-d330-4dc0-9ef8-65fbc51f44b3 "Microsoft 365 Certified: Fundamentals")
 [![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/ce12e44a-e763-45cc-9812-49658e9f2598 "Microsoft Certified: Azure Fundamentals")
-[![L5 Microsoft Sentinel Black Belt](https://images.credly.com/size/110x110/images/23d9f8d7-d662-4b93-b1b2-2fbe5b9e06e7/CREDLY_Microsoft_Sentinel_Black_Belt_V1.png)](http://www.credly.com/badges/28b47cc0-a5be-41c3-95a3-1237917fc633 "L5 Microsoft Sentinel Black Belt")
+[![Microsoft Sentinel Black Belt](https://images.credly.com/size/110x110/images/23d9f8d7-d662-4b93-b1b2-2fbe5b9e06e7/CREDLY_Microsoft_Sentinel_Black_Belt_V1.png)](http://www.credly.com/badges/28b47cc0-a5be-41c3-95a3-1237917fc633 "Microsoft Sentinel Black Belt")
 [![L3 Microsoft Sentinel Influencer](https://images.credly.com/size/110x110/images/41b63430-ded3-4d19-994c-494e91821d3d/CREDLY_Microsoft_Cloud_Security_Digital_Badges_Sentinel_Influencer.png)](http://www.credly.com/badges/97ae9753-b447-47b1-9bb7-57efdda4a245 "L3 Microsoft Sentinel Influencer")
 [![L2 Cloud Security Product Influencer](https://images.credly.com/size/110x110/images/3eaf938e-b1e2-4a1a-b3bf-896e4e00c36b/CREDLY_Microsoft_Cloud_Security_Digital_Badges_Product_Influencer.png)](http://www.credly.com/badges/9816a9d3-6c2e-41d5-926a-fbfa1c63e9c5 "L2 Cloud Security Product Influencer")
 [![AZ-305: Designing Microsoft Azure Infrastructure Solutions](https://images.credly.com/size/110x110/images/9d7dc4c0-5681-41fc-b96b-26e9157786d7/image.png)](http://www.credly.com/badges/af955c0e-802b-4e10-86ea-935d3d9e207f "AZ-305: Designing Microsoft Azure Infrastructure Solutions")
@@ -111,8 +113,6 @@ Blog: 'https://thoor.tech'
 [![AZ-301 Microsoft Azure Architect Design](https://images.credly.com/size/110x110/images/28004779-9175-4fc8-be6f-448663c9422b/exam-az301-600x600.png)](http://www.credly.com/badges/143c0e60-f6e2-4db1-8962-4bbe5dc7226d "AZ-301 Microsoft Azure Architect Design")
 [![Microsoft Certified: Azure Solutions Architect Expert (Legacy)](https://images.credly.com/size/110x110/images/649069f9-27f1-4d2b-92bc-c674bc67bd02/azure-solutions-architect-expert-600x600.png)](http://www.credly.com/badges/94c5c8fd-d661-4497-94ed-f0d668c9d439 "Microsoft Certified: Azure Solutions Architect Expert (Legacy)")
 [![AZ-300 Microsoft Azure Architect Technologies](https://images.credly.com/size/110x110/images/c66ddfa8-4e9d-41e4-bf98-244a4d55a14e/exam-az300-600x600.png)](http://www.credly.com/badges/329439c5-82d6-4b57-ba96-6bba15f6e5d8 "AZ-300 Microsoft Azure Architect Technologies")
-[![MS-100: Microsoft 365 Identity and Services](https://images.credly.com/size/110x110/images/0c7981d8-e5c6-44c9-8bd6-563664c609cd/exam-ms100-600x600.png)](http://www.credly.com/badges/1c687ecf-4ad4-4bff-b0cf-7321c3bbf58e "MS-100: Microsoft 365 Identity and Services")
-[![MS-101: Microsoft 365 Mobility and Security](https://images.credly.com/size/110x110/images/f5aaf5dc-9ef4-4ecd-8886-a68c83e32fc5/exam-ms100_1-600x600.png)](http://www.credly.com/badges/91d94826-1725-4ce8-aa53-b880d7718663 "MS-101: Microsoft 365 Mobility and Security")
 <!--END_SECTION:badges-->
 
 # 🔔 Follow me
