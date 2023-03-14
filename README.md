@@ -34,15 +34,15 @@ Blog: 'https://thoor.tech'
 
 
 [Read more](https://thoor.tech/)
-> Last updated: Saturday, March 11, 2023 at 12:19:11 AM
+> Last updated: Tuesday, March 14, 2023 at 12:38:01 PM
 
 > Showing 5 of 10 posts.
 
+[![Manual Microsoft Sentinel incident from an Azure Workbook](https://raw.githubusercontent.com/pthoor/pthoor/main/blog-posts/Thoor.tech/Manual_Microsoft_Sentinel_incident_from_an_Azure_Workbook.svg)](https://thoor.tech/sentinel-incident-from-azure-workbook/)
 [![Defender for Office 365 Blog Series - Part 2](https://raw.githubusercontent.com/pthoor/pthoor/main/blog-posts/Thoor.tech/Defender_for_Office_365_Blog_Series_-_Part_2.svg)](https://thoor.tech/defender-for-office-365-blog-series-part2/)
 [![Defender for Office 365 Blog Series](https://raw.githubusercontent.com/pthoor/pthoor/main/blog-posts/Thoor.tech/Defender_for_Office_365_Blog_Series.svg)](https://thoor.tech/defender-for-office-365-blog-series/)
+[![Who Hacked?](https://raw.githubusercontent.com/pthoor/pthoor/main/blog-posts/Thoor.tech/Who_Hacked_.svg)](https://thoor.tech/who-hacked/)
 [![Fixing Azure SQL long-term backup retention restore](https://raw.githubusercontent.com/pthoor/pthoor/main/blog-posts/Thoor.tech/Fixing_Azure_SQL_long-term_backup_retention_restore.svg)](https://thoor.tech/azure-sql-ltr-restore-error/)
-[![Kusto Detective Agency - Hints](https://raw.githubusercontent.com/pthoor/pthoor/main/blog-posts/Thoor.tech/Kusto_Detective_Agency_-_Hints.svg)](https://thoor.tech/kusto-detective-agency/)
-[![Microsoft Defender External Attack Surface Management (EASM)](https://raw.githubusercontent.com/pthoor/pthoor/main/blog-posts/Thoor.tech/Microsoft_Defender_External_Attack_Surface_Management_(EASM).svg)](https://thoor.tech/defender-easm-start-guide/)
 
 
 <!-- blog-post-list:end -->
