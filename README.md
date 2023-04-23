@@ -65,6 +65,7 @@ Blog: 'https://thoor.tech'
 # 🎓 Certificates & Trainings [@Credly](https://www.credly.com/users/pierre-thoor/badges?sort=-state_updated_at&page=1)
 <!--START_SECTION:badges-->
 
+[![GitHub Advanced Security](https://images.credly.com/size/110x110/images/9e11274d-1ac0-48c1-9d47-e72f16cd2e3d/image.png)](http://www.credly.com/badges/5de3baa8-c180-4a08-95f7-1a25a8e26e48 "GitHub Advanced Security")
 [![Cloud Security Product Champion](https://images.credly.com/size/110x110/images/7941cf3f-4295-4553-a57f-f0abf155d24e/image.png)](http://www.credly.com/badges/a729e668-aeb6-4bcd-936c-66fb8d5ce12d "Cloud Security Product Champion")
 [![Microsoft Certified Trainer 2023-2024](https://images.credly.com/size/110x110/images/fd6bb2af-2f05-4d9b-a23e-39f8e309a82d/image.png)](http://www.credly.com/badges/71f91e56-89ef-429f-9241-3e722a9bfed9 "Microsoft Certified Trainer 2023-2024")
 [![GitHub Administration](https://images.credly.com/size/110x110/images/2787e1d9-afd8-4226-8558-52a4d0fff528/image.png)](http://www.credly.com/badges/d49287b4-3c4d-485d-9cde-519ad88f1c80 "GitHub Administration")
@@ -112,7 +113,6 @@ Blog: 'https://thoor.tech'
 [![Microsoft 365 Certified: Messaging Administrator Associate](https://images.credly.com/size/110x110/images/8d90420f-2166-4168-8f81-b4992777a57f/image.png)](http://www.credly.com/badges/a772def3-040e-4360-a4b8-be86ac66987f "Microsoft 365 Certified: Messaging Administrator Associate")
 [![AZ-301 Microsoft Azure Architect Design](https://images.credly.com/size/110x110/images/28004779-9175-4fc8-be6f-448663c9422b/exam-az301-600x600.png)](http://www.credly.com/badges/984c4bef-d76d-4ea5-903a-7ec9605f9d5a "AZ-301 Microsoft Azure Architect Design")
 [![Microsoft Certified: Azure Solutions Architect Expert (Legacy)](https://images.credly.com/size/110x110/images/649069f9-27f1-4d2b-92bc-c674bc67bd02/azure-solutions-architect-expert-600x600.png)](http://www.credly.com/badges/2bed0616-389b-4dd6-bd52-da5eb127144d "Microsoft Certified: Azure Solutions Architect Expert (Legacy)")
-[![AZ-300 Microsoft Azure Architect Technologies](https://images.credly.com/size/110x110/images/c66ddfa8-4e9d-41e4-bf98-244a4d55a14e/exam-az300-600x600.png)](http://www.credly.com/badges/d5ea389a-e57e-4b67-9308-bf09493e6736 "AZ-300 Microsoft Azure Architect Technologies")
 <!--END_SECTION:badges-->
 
 # 🔔 Follow me
