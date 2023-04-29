@@ -34,15 +34,15 @@ Blog: 'https://thoor.tech'
 
 
 [Read more](https://thoor.tech/)
-> Last updated: Saturday, April 22, 2023 at 12:20:10 AM
+> Last updated: Saturday, April 29, 2023 at 12:19:40 AM
 
 > Showing 5 of 10 posts.
 
+[![Defender for Office 365 Blog Series - Part 3](https://raw.githubusercontent.com/pthoor/pthoor/main/blog-posts/Thoor.tech/Defender_for_Office_365_Blog_Series_-_Part_3.svg)](https://thoor.tech/defender-for-office-365-blog-series-part3/)
 [![Manual Microsoft Sentinel incident from an Azure Workbook](https://raw.githubusercontent.com/pthoor/pthoor/main/blog-posts/Thoor.tech/Manual_Microsoft_Sentinel_incident_from_an_Azure_Workbook.svg)](https://thoor.tech/sentinel-incident-from-azure-workbook/)
 [![Defender for Office 365 Blog Series - Part 2](https://raw.githubusercontent.com/pthoor/pthoor/main/blog-posts/Thoor.tech/Defender_for_Office_365_Blog_Series_-_Part_2.svg)](https://thoor.tech/defender-for-office-365-blog-series-part2/)
 [![Defender for Office 365 Blog Series](https://raw.githubusercontent.com/pthoor/pthoor/main/blog-posts/Thoor.tech/Defender_for_Office_365_Blog_Series.svg)](https://thoor.tech/defender-for-office-365-blog-series/)
 [![Who Hacked?](https://raw.githubusercontent.com/pthoor/pthoor/main/blog-posts/Thoor.tech/Who_Hacked_.svg)](https://thoor.tech/who-hacked/)
-[![Fixing Azure SQL long-term backup retention restore](https://raw.githubusercontent.com/pthoor/pthoor/main/blog-posts/Thoor.tech/Fixing_Azure_SQL_long-term_backup_retention_restore.svg)](https://thoor.tech/azure-sql-ltr-restore-error/)
 
 
 <!-- blog-post-list:end -->
