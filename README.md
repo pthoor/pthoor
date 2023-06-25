@@ -65,6 +65,7 @@ Blog: 'https://thoor.tech'
 # 🎓 Certificates & Trainings [@Credly](https://www.credly.com/users/pierre-thoor/badges?sort=-state_updated_at&page=1)
 <!--START_SECTION:badges-->
 
+[![Kusto Detective Agency – S2E3 Badge](https://images.credly.com/size/110x110/images/27c40e7b-98b2-4312-b52c-4454f6c90c52/image.png)](http://www.credly.com/badges/ea1579c4-8842-4827-8565-9e80068949fa "Kusto Detective Agency – S2E3 Badge")
 [![Kusto Detective Agency – S2E2 Badge](https://images.credly.com/size/110x110/images/8fc10fee-7b05-4b86-8504-01abf614bcac/image.png)](http://www.credly.com/badges/23be7287-38d4-4f97-886e-0ce6b971ce25 "Kusto Detective Agency – S2E2 Badge")
 [![Cloud Security Rockstar Team](https://images.credly.com/size/110x110/images/4ae7bb2a-33ea-43c6-a76a-0b67f2ad12ec/image.png)](http://www.credly.com/badges/3bb3054d-f375-4db8-ab55-e9622200a8a3 "Cloud Security Rockstar Team")
 [![Kusto Detective Agency – S2E1 Badge](https://images.credly.com/size/110x110/images/304d7409-3dd5-40b6-ab20-88d3ec012eb1/image.png)](http://www.credly.com/badges/df9d0586-e639-40bc-9284-a0e7164a9c0e "Kusto Detective Agency – S2E1 Badge")
@@ -112,7 +113,6 @@ Blog: 'https://thoor.tech'
 [![AZ-304: Microsoft Azure Architect Design](https://images.credly.com/size/110x110/images/bfdff01e-a9dd-41fc-9301-8a90585c19bb/EXAM-Expert-AZ-304-600x600.png)](http://www.credly.com/badges/7294cd0c-0b6b-4f56-bcd4-410b2bc8eff5 "AZ-304: Microsoft Azure Architect Design")
 [![AZ-303: Microsoft Azure Architect Technologies](https://images.credly.com/size/110x110/images/285339cc-675a-4b1a-bdd9-283868af2fc8/EXAM-Expert-AZ-303-600x600.png)](http://www.credly.com/badges/455a68fe-6049-4082-b9fe-5c5a8b5860b3 "AZ-303: Microsoft Azure Architect Technologies")
 [![Microsoft Certified: Azure Security Engineer Associate](https://images.credly.com/size/110x110/images/1ad16b6f-2c71-4a2e-ae74-ec69c4766039/azure-security-engineer-associate600x600.png)](http://www.credly.com/badges/f398124c-af9a-4b16-9667-94e326544baa "Microsoft Certified: Azure Security Engineer Associate")
-[![Microsoft Certified: Azure Administrator Associate](https://images.credly.com/size/110x110/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png)](http://www.credly.com/badges/05778885-0a17-4370-8881-276629094e2f "Microsoft Certified: Azure Administrator Associate")
 <!--END_SECTION:badges-->
 
 # 🔔 Follow me
