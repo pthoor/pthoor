@@ -65,6 +65,8 @@ Blog: 'https://thoor.tech'
 # 🎓 Certificates & Trainings [@Credly](https://www.credly.com/users/pierre-thoor/badges?sort=-state_updated_at&page=1)
 <!--START_SECTION:badges-->
 
+[![2023 Microsoft Most Valuable Professional (MVP)](https://images.credly.com/size/110x110/images/5c687ffb-7ab6-4fd5-bf8c-14f0178acd21/image.png)](http://www.credly.com/badges/c3313322-21ff-417b-9190-fd3722c1fb96 "2023 Microsoft Most Valuable Professional (MVP)")
+[![New Rank: Senior Kusto Detective](https://images.credly.com/size/110x110/images/79b22d1d-cb2d-471e-add7-bbe2e1672f61/image.png)](http://www.credly.com/badges/1fe2a960-c4cf-4335-9ad1-8bafca524d76 "New Rank: Senior Kusto Detective")
 [![New Rank: Kusto Detective III](https://images.credly.com/size/110x110/images/27c40e7b-98b2-4312-b52c-4454f6c90c52/image.png)](http://www.credly.com/badges/ea1579c4-8842-4827-8565-9e80068949fa "New Rank: Kusto Detective III")
 [![New Rank: Kusto Detective II](https://images.credly.com/size/110x110/images/8fc10fee-7b05-4b86-8504-01abf614bcac/image.png)](http://www.credly.com/badges/23be7287-38d4-4f97-886e-0ce6b971ce25 "New Rank: Kusto Detective II")
 [![Cloud Security Rockstar Team](https://images.credly.com/size/110x110/images/4ae7bb2a-33ea-43c6-a76a-0b67f2ad12ec/image.png)](http://www.credly.com/badges/3bb3054d-f375-4db8-ab55-e9622200a8a3 "Cloud Security Rockstar Team")
@@ -111,8 +113,6 @@ Blog: 'https://thoor.tech'
 [![Microsoft Certified: DevOps Engineer Expert](https://images.credly.com/size/110x110/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png)](http://www.credly.com/badges/69f82ac9-e104-4ee5-87c6-421949558e32 "Microsoft Certified: DevOps Engineer Expert")
 [![Microsoft Certified: Azure Solutions Architect Expert](https://images.credly.com/size/110x110/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png)](http://www.credly.com/badges/d3e29baf-da53-4284-9af3-5e1543919f28 "Microsoft Certified: Azure Solutions Architect Expert")
 [![AZ-304: Microsoft Azure Architect Design](https://images.credly.com/size/110x110/images/bfdff01e-a9dd-41fc-9301-8a90585c19bb/EXAM-Expert-AZ-304-600x600.png)](http://www.credly.com/badges/09fc4eaf-afb1-4cec-999c-acad5cd451c5 "AZ-304: Microsoft Azure Architect Design")
-[![AZ-303: Microsoft Azure Architect Technologies](https://images.credly.com/size/110x110/images/285339cc-675a-4b1a-bdd9-283868af2fc8/EXAM-Expert-AZ-303-600x600.png)](http://www.credly.com/badges/43c3bab9-0711-4c59-a89a-dad0ecbfc48d "AZ-303: Microsoft Azure Architect Technologies")
-[![Microsoft Certified: Azure Security Engineer Associate](https://images.credly.com/size/110x110/images/1ad16b6f-2c71-4a2e-ae74-ec69c4766039/azure-security-engineer-associate600x600.png)](http://www.credly.com/badges/91fcd143-1b7f-4bd1-83b4-49a837b1cc3b "Microsoft Certified: Azure Security Engineer Associate")
 <!--END_SECTION:badges-->
 
 # 🔔 Follow me
