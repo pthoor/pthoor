@@ -65,6 +65,7 @@ Blog: 'https://thoor.tech'
 # 🎓 Certificates & Trainings [@Credly](https://www.credly.com/users/pierre-thoor/badges?sort=-state_updated_at&page=1)
 <!--START_SECTION:badges-->
 
+[![New Rank: Kusto Senior Detective II](https://images.credly.com/size/110x110/images/2fb50859-656e-4390-b4ca-88bc2b619867/image.png)](http://www.credly.com/badges/4c8dff8f-a40f-42f8-a932-e5067fee5937 "New Rank: Kusto Senior Detective II")
 [![2023 Microsoft Most Valuable Professional (MVP)](https://images.credly.com/size/110x110/images/5c687ffb-7ab6-4fd5-bf8c-14f0178acd21/image.png)](http://www.credly.com/badges/c3313322-21ff-417b-9190-fd3722c1fb96 "2023 Microsoft Most Valuable Professional (MVP)")
 [![New Rank: Senior Kusto Detective](https://images.credly.com/size/110x110/images/79b22d1d-cb2d-471e-add7-bbe2e1672f61/image.png)](http://www.credly.com/badges/1fe2a960-c4cf-4335-9ad1-8bafca524d76 "New Rank: Senior Kusto Detective")
 [![New Rank: Kusto Detective III](https://images.credly.com/size/110x110/images/27c40e7b-98b2-4312-b52c-4454f6c90c52/image.png)](http://www.credly.com/badges/ea1579c4-8842-4827-8565-9e80068949fa "New Rank: Kusto Detective III")
@@ -112,7 +113,6 @@ Blog: 'https://thoor.tech'
 [![AZ-400: Designing and Implementing Microsoft DevOps Solutions](https://images.credly.com/size/110x110/images/107e2eb6-f394-40eb-83d2-d8c9b7d34555/exam-az400-600x600.png)](http://www.credly.com/badges/586f074a-cacd-444c-a731-3c4c0045e1de "AZ-400: Designing and Implementing Microsoft DevOps Solutions")
 [![Microsoft Certified: DevOps Engineer Expert](https://images.credly.com/size/110x110/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png)](http://www.credly.com/badges/69f82ac9-e104-4ee5-87c6-421949558e32 "Microsoft Certified: DevOps Engineer Expert")
 [![Microsoft Certified: Azure Solutions Architect Expert](https://images.credly.com/size/110x110/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png)](http://www.credly.com/badges/d3e29baf-da53-4284-9af3-5e1543919f28 "Microsoft Certified: Azure Solutions Architect Expert")
-[![AZ-304: Microsoft Azure Architect Design](https://images.credly.com/size/110x110/images/bfdff01e-a9dd-41fc-9301-8a90585c19bb/EXAM-Expert-AZ-304-600x600.png)](http://www.credly.com/badges/09fc4eaf-afb1-4cec-999c-acad5cd451c5 "AZ-304: Microsoft Azure Architect Design")
 <!--END_SECTION:badges-->
 
 # 🔔 Follow me
