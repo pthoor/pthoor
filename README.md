@@ -65,6 +65,7 @@ Blog: 'https://thoor.tech'
 # 🎓 Certificates & Trainings [@Credly](https://www.credly.com/users/pierre-thoor/badges?sort=-state_updated_at&page=1)
 <!--START_SECTION:badges-->
 
+[![Kusto Detective Agency – S2E6 Badge](https://images.credly.com/size/110x110/images/8db7e105-c19e-4df8-87a4-ed1d5ccbc32b/image.png)](http://www.credly.com/badges/83e55150-1041-4d57-a375-9a8f240f0263 "Kusto Detective Agency – S2E6 Badge")
 [![New Rank: Kusto Senior Detective II](https://images.credly.com/size/110x110/images/2fb50859-656e-4390-b4ca-88bc2b619867/image.png)](http://www.credly.com/badges/4c8dff8f-a40f-42f8-a932-e5067fee5937 "New Rank: Kusto Senior Detective II")
 [![2023 Microsoft Most Valuable Professional (MVP)](https://images.credly.com/size/110x110/images/5c687ffb-7ab6-4fd5-bf8c-14f0178acd21/image.png)](http://www.credly.com/badges/c3313322-21ff-417b-9190-fd3722c1fb96 "2023 Microsoft Most Valuable Professional (MVP)")
 [![New Rank: Senior Kusto Detective](https://images.credly.com/size/110x110/images/79b22d1d-cb2d-471e-add7-bbe2e1672f61/image.png)](http://www.credly.com/badges/1fe2a960-c4cf-4335-9ad1-8bafca524d76 "New Rank: Senior Kusto Detective")
@@ -112,7 +113,6 @@ Blog: 'https://thoor.tech'
 [![Microsoft Certified: Azure Stack Hub Operator Associate](https://images.credly.com/size/110x110/images/58a01ed5-1323-45f5-bc6b-2ab9beaf2ccf/azure-stack-hub-operator-associate-600x600.png)](http://www.credly.com/badges/29517c20-5e1f-40fd-8535-f05791d4565b "Microsoft Certified: Azure Stack Hub Operator Associate")
 [![AZ-400: Designing and Implementing Microsoft DevOps Solutions](https://images.credly.com/size/110x110/images/107e2eb6-f394-40eb-83d2-d8c9b7d34555/exam-az400-600x600.png)](http://www.credly.com/badges/586f074a-cacd-444c-a731-3c4c0045e1de "AZ-400: Designing and Implementing Microsoft DevOps Solutions")
 [![Microsoft Certified: DevOps Engineer Expert](https://images.credly.com/size/110x110/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png)](http://www.credly.com/badges/69f82ac9-e104-4ee5-87c6-421949558e32 "Microsoft Certified: DevOps Engineer Expert")
-[![Microsoft Certified: Azure Solutions Architect Expert](https://images.credly.com/size/110x110/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png)](http://www.credly.com/badges/d3e29baf-da53-4284-9af3-5e1543919f28 "Microsoft Certified: Azure Solutions Architect Expert")
 <!--END_SECTION:badges-->
 
 # 🔔 Follow me
