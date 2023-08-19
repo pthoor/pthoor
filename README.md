@@ -34,15 +34,15 @@ Blog: 'https://thoor.tech'
 
 
 [Read more](https://thoor.tech/)
-> Last updated: Saturday, August 12, 2023 at 12:17:08 AM
+> Last updated: Saturday, August 19, 2023 at 12:17:11 AM
 
 > Showing 5 of 10 posts.
 
+[![Kusto Detective Agency - Season 2 Case 7](https://raw.githubusercontent.com/pthoor/pthoor/main/blog-posts/Thoor.tech/Kusto_Detective_Agency_-_Season_2_Case_7.svg)](https://thoor.tech/KDA-S2E7/)
 [![Microsoft Sentinel and Azure OpenAI](https://raw.githubusercontent.com/pthoor/pthoor/main/blog-posts/Thoor.tech/Microsoft_Sentinel_and_Azure_OpenAI.svg)](https://thoor.tech/sentinel-and-azure-openai/)
 [![Kusto Detective Agency - Season 2 Case 6](https://raw.githubusercontent.com/pthoor/pthoor/main/blog-posts/Thoor.tech/Kusto_Detective_Agency_-_Season_2_Case_6.svg)](https://thoor.tech/KDA-S2E6/)
 [![Defender for Office 365 Blog Series - Part 3](https://raw.githubusercontent.com/pthoor/pthoor/main/blog-posts/Thoor.tech/Defender_for_Office_365_Blog_Series_-_Part_3.svg)](https://thoor.tech/defender-for-office-365-blog-series-part3/)
 [![Manual Microsoft Sentinel incident from an Azure Workbook](https://raw.githubusercontent.com/pthoor/pthoor/main/blog-posts/Thoor.tech/Manual_Microsoft_Sentinel_incident_from_an_Azure_Workbook.svg)](https://thoor.tech/sentinel-incident-from-azure-workbook/)
-[![Defender for Office 365 Blog Series - Part 2](https://raw.githubusercontent.com/pthoor/pthoor/main/blog-posts/Thoor.tech/Defender_for_Office_365_Blog_Series_-_Part_2.svg)](https://thoor.tech/defender-for-office-365-blog-series-part2/)
 
 
 <!-- blog-post-list:end -->
