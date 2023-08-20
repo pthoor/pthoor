@@ -65,6 +65,7 @@ Blog: 'https://thoor.tech'
 # 🎓 Certificates & Trainings [@Credly](https://www.credly.com/users/pierre-thoor/badges?sort=-state_updated_at&page=1)
 <!--START_SECTION:badges-->
 
+[![Kusto Detective Agency – S2E7 Badge](https://images.credly.com/size/110x110/images/b096f449-fce1-42d7-be93-e6e1e32e171b/image.png)](http://www.credly.com/badges/871e2a10-01fc-4c8e-82d4-f7665d4b409e "Kusto Detective Agency – S2E7 Badge")
 [![Kusto Detective Agency – S2E6 Badge](https://images.credly.com/size/110x110/images/8db7e105-c19e-4df8-87a4-ed1d5ccbc32b/image.png)](http://www.credly.com/badges/83e55150-1041-4d57-a375-9a8f240f0263 "Kusto Detective Agency – S2E6 Badge")
 [![New Rank: Kusto Senior Detective II](https://images.credly.com/size/110x110/images/2fb50859-656e-4390-b4ca-88bc2b619867/image.png)](http://www.credly.com/badges/4c8dff8f-a40f-42f8-a932-e5067fee5937 "New Rank: Kusto Senior Detective II")
 [![2023 Microsoft Most Valuable Professional (MVP)](https://images.credly.com/size/110x110/images/5c687ffb-7ab6-4fd5-bf8c-14f0178acd21/image.png)](http://www.credly.com/badges/c3313322-21ff-417b-9190-fd3722c1fb96 "2023 Microsoft Most Valuable Professional (MVP)")
@@ -75,10 +76,10 @@ Blog: 'https://thoor.tech'
 [![New Rank: Kusto Detective I](https://images.credly.com/size/110x110/images/304d7409-3dd5-40b6-ab20-88d3ec012eb1/image.png)](http://www.credly.com/badges/df9d0586-e639-40bc-9284-a0e7164a9c0e "New Rank: Kusto Detective I")
 [![New Kusto Detective!](https://images.credly.com/size/110x110/images/1e07abc3-dc08-4320-af38-43824afc659d/image.png)](http://www.credly.com/badges/3d79d28b-4c21-42ca-8578-bac788f914c7 "New Kusto Detective!")
 [![Cloud Security Product Influencer](https://images.credly.com/size/110x110/images/0c1eb2a2-25d8-411d-b195-d0c88cf3a3c5/image.png)](http://www.credly.com/badges/087196bf-179c-4035-aa90-063b14dc336b "Cloud Security Product Influencer")
-[![GitHub Advanced Security](https://images.credly.com/size/110x110/images/9e11274d-1ac0-48c1-9d47-e72f16cd2e3d/image.png)](http://www.credly.com/badges/5de3baa8-c180-4a08-95f7-1a25a8e26e48 "GitHub Advanced Security")
+[![GitHub Advanced Security](https://images.credly.com/size/110x110/images/ab23e6b1-d5ba-48ee-a3ba-71849e0ac637/image.png)](http://www.credly.com/badges/28412719-c3d8-4a73-86ef-bea9eb470ffb "GitHub Advanced Security")
 [![Cloud Security Product Champion](https://images.credly.com/size/110x110/images/7941cf3f-4295-4553-a57f-f0abf155d24e/image.png)](http://www.credly.com/badges/a729e668-aeb6-4bcd-936c-66fb8d5ce12d "Cloud Security Product Champion")
 [![Microsoft Certified Trainer 2023-2024](https://images.credly.com/size/110x110/images/fd6bb2af-2f05-4d9b-a23e-39f8e309a82d/image.png)](http://www.credly.com/badges/3479f01e-13d6-4008-a5af-decb5e9fec18 "Microsoft Certified Trainer 2023-2024")
-[![GitHub Administration](https://images.credly.com/size/110x110/images/2787e1d9-afd8-4226-8558-52a4d0fff528/image.png)](http://www.credly.com/badges/d49287b4-3c4d-485d-9cde-519ad88f1c80 "GitHub Administration")
+[![GitHub Administration](https://images.credly.com/size/110x110/images/a5e9bdf5-be98-4896-afd2-eff09e511667/image.png)](http://www.credly.com/badges/e7ebc60f-9e40-475f-89d6-34de724248df "GitHub Administration")
 [![Kusto Detective Agency - Complete](https://images.credly.com/size/110x110/images/6726e724-5ce8-477e-93f5-6b39d6933273/image.png)](http://www.credly.com/badges/8c8f51b7-e1ba-4213-9f9b-0c16cafe5ceb "Kusto Detective Agency - Complete")
 [![Kusto Detective Agency - Case #5 Badge](https://images.credly.com/size/110x110/images/43b452c6-89f2-4649-bb84-19f3166a833e/image.png)](http://www.credly.com/badges/7e3aa69b-5a82-4f8d-8d17-c6e4564c8e89 "Kusto Detective Agency - Case #5 Badge")
 [![Kusto Detective Agency - Case #4 Badge](https://images.credly.com/size/110x110/images/e7522dc8-886b-4a5b-9436-535e1adaa5c5/image.png)](http://www.credly.com/badges/24ff3a06-06f1-4532-83e3-3cf0ac9bd38b "Kusto Detective Agency - Case #4 Badge")
@@ -86,7 +87,7 @@ Blog: 'https://thoor.tech'
 [![Kusto Detective Agency - Case #2 Badge](https://images.credly.com/size/110x110/images/ba8eb12f-2d57-4e9c-b1da-c395bd1d7fd3/image.png)](http://www.credly.com/badges/a8b01708-cf9c-4e7a-ab70-4c579de7a2f2 "Kusto Detective Agency - Case #2 Badge")
 [![Kusto Detective Agency - Case #1 Badge](https://images.credly.com/size/110x110/images/14d53c52-2701-4045-9f89-e5e510eee2fd/image.png)](http://www.credly.com/badges/78b25291-7313-4270-ae93-55e42595e746 "Kusto Detective Agency - Case #1 Badge")
 [![Kusto Detective Agency - Onboarding](https://images.credly.com/size/110x110/images/84201552-025f-4b97-81c4-55be4ba896ff/image.png)](http://www.credly.com/badges/93262016-762f-4545-89f8-a8af4072b32e "Kusto Detective Agency - Onboarding")
-[![(ISC)² Candidate](https://images.credly.com/size/110x110/images/3829db50-49a8-4f30-85c5-639ffc4a7b2f/image.png)](http://www.credly.com/badges/6de41b49-1d72-410b-bfe2-b38e95bdcd90 "(ISC)² Candidate")
+[![(ISC)² Candidate](https://images.credly.com/size/110x110/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png)](http://www.credly.com/badges/6de41b49-1d72-410b-bfe2-b38e95bdcd90 "(ISC)² Candidate")
 [![SC-100: Microsoft Cybersecurity Architect](https://images.credly.com/size/110x110/images/c34a6df4-c7bd-461b-ac12-deab18ab6804/image.png)](http://www.credly.com/badges/0f483b27-8670-415f-9bed-a8edbbb88b47 "SC-100: Microsoft Cybersecurity Architect")
 [![Microsoft Certified: Cybersecurity Architect Expert](https://images.credly.com/size/110x110/images/0ba22331-acf9-4e8a-8ce3-b4cc3d376040/image.png)](http://www.credly.com/badges/25c0d45f-17cf-47ff-afe1-117a45308c1e "Microsoft Certified: Cybersecurity Architect Expert")
 [![Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://images.credly.com/size/110x110/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png)](http://www.credly.com/badges/1df6d5bc-db65-4a41-b797-e5aef213fc99 "Microsoft Certified: Security, Compliance, and Identity Fundamentals")
@@ -112,7 +113,6 @@ Blog: 'https://thoor.tech'
 [![Microsoft Certified: Security Operations Analyst Associate](https://images.credly.com/size/110x110/images/7e75516f-5149-4d19-8d09-aa3dab4907cb/security-operations-analyst-associate-600x600.png)](http://www.credly.com/badges/9eb73d01-3320-4113-a2fe-e444d8ff8071 "Microsoft Certified: Security Operations Analyst Associate")
 [![Microsoft Certified: Azure Stack Hub Operator Associate](https://images.credly.com/size/110x110/images/58a01ed5-1323-45f5-bc6b-2ab9beaf2ccf/azure-stack-hub-operator-associate-600x600.png)](http://www.credly.com/badges/29517c20-5e1f-40fd-8535-f05791d4565b "Microsoft Certified: Azure Stack Hub Operator Associate")
 [![AZ-400: Designing and Implementing Microsoft DevOps Solutions](https://images.credly.com/size/110x110/images/107e2eb6-f394-40eb-83d2-d8c9b7d34555/exam-az400-600x600.png)](http://www.credly.com/badges/586f074a-cacd-444c-a731-3c4c0045e1de "AZ-400: Designing and Implementing Microsoft DevOps Solutions")
-[![Microsoft Certified: DevOps Engineer Expert](https://images.credly.com/size/110x110/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png)](http://www.credly.com/badges/69f82ac9-e104-4ee5-87c6-421949558e32 "Microsoft Certified: DevOps Engineer Expert")
 <!--END_SECTION:badges-->
 
 # 🔔 Follow me
