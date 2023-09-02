@@ -34,7 +34,7 @@ Blog: 'https://thoor.tech'
 
 
 [Read more](https://thoor.tech/)
-> Last updated: Saturday, August 26, 2023 at 12:17:34 AM
+> Last updated: Saturday, September 2, 2023 at 12:17:46 AM
 
 > Showing 5 of 10 posts.
 
