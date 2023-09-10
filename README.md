@@ -65,8 +65,8 @@ Blog: 'https://thoor.tech'
 # 🎓 Certificates & Trainings [@Credly](https://www.credly.com/users/pierre-thoor/badges?sort=-state_updated_at&page=1)
 <!--START_SECTION:badges-->
 
-[![Kusto Detective Agency – S2E7 Badge](https://images.credly.com/size/110x110/images/b096f449-fce1-42d7-be93-e6e1e32e171b/image.png)](http://www.credly.com/badges/871e2a10-01fc-4c8e-82d4-f7665d4b409e "Kusto Detective Agency – S2E7 Badge")
-[![Kusto Detective Agency – S2E6 Badge](https://images.credly.com/size/110x110/images/8db7e105-c19e-4df8-87a4-ed1d5ccbc32b/image.png)](http://www.credly.com/badges/83e55150-1041-4d57-a375-9a8f240f0263 "Kusto Detective Agency – S2E6 Badge")
+[![New rank: Special Detective Agent](https://images.credly.com/size/110x110/images/b096f449-fce1-42d7-be93-e6e1e32e171b/image.png)](http://www.credly.com/badges/871e2a10-01fc-4c8e-82d4-f7665d4b409e "New rank: Special Detective Agent")
+[![New rank: Principal Detective](https://images.credly.com/size/110x110/images/8db7e105-c19e-4df8-87a4-ed1d5ccbc32b/image.png)](http://www.credly.com/badges/83e55150-1041-4d57-a375-9a8f240f0263 "New rank: Principal Detective")
 [![New Rank: Kusto Senior Detective II](https://images.credly.com/size/110x110/images/2fb50859-656e-4390-b4ca-88bc2b619867/image.png)](http://www.credly.com/badges/4c8dff8f-a40f-42f8-a932-e5067fee5937 "New Rank: Kusto Senior Detective II")
 [![2023 Microsoft Most Valuable Professional (MVP)](https://images.credly.com/size/110x110/images/5c687ffb-7ab6-4fd5-bf8c-14f0178acd21/image.png)](http://www.credly.com/badges/c3313322-21ff-417b-9190-fd3722c1fb96 "2023 Microsoft Most Valuable Professional (MVP)")
 [![New Rank: Senior Kusto Detective](https://images.credly.com/size/110x110/images/79b22d1d-cb2d-471e-add7-bbe2e1672f61/image.png)](http://www.credly.com/badges/1fe2a960-c4cf-4335-9ad1-8bafca524d76 "New Rank: Senior Kusto Detective")
@@ -76,10 +76,10 @@ Blog: 'https://thoor.tech'
 [![New Rank: Kusto Detective I](https://images.credly.com/size/110x110/images/304d7409-3dd5-40b6-ab20-88d3ec012eb1/image.png)](http://www.credly.com/badges/df9d0586-e639-40bc-9284-a0e7164a9c0e "New Rank: Kusto Detective I")
 [![New Kusto Detective!](https://images.credly.com/size/110x110/images/1e07abc3-dc08-4320-af38-43824afc659d/image.png)](http://www.credly.com/badges/3d79d28b-4c21-42ca-8578-bac788f914c7 "New Kusto Detective!")
 [![Cloud Security Product Influencer](https://images.credly.com/size/110x110/images/0c1eb2a2-25d8-411d-b195-d0c88cf3a3c5/image.png)](http://www.credly.com/badges/087196bf-179c-4035-aa90-063b14dc336b "Cloud Security Product Influencer")
-[![GitHub Advanced Security](https://images.credly.com/size/110x110/images/ab23e6b1-d5ba-48ee-a3ba-71849e0ac637/image.png)](http://www.credly.com/badges/28412719-c3d8-4a73-86ef-bea9eb470ffb "GitHub Advanced Security")
+[![GitHub Advanced Security](https://images.credly.com/size/110x110/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png)](http://www.credly.com/badges/28412719-c3d8-4a73-86ef-bea9eb470ffb "GitHub Advanced Security")
 [![Cloud Security Product Champion](https://images.credly.com/size/110x110/images/7941cf3f-4295-4553-a57f-f0abf155d24e/image.png)](http://www.credly.com/badges/a729e668-aeb6-4bcd-936c-66fb8d5ce12d "Cloud Security Product Champion")
 [![Microsoft Certified Trainer 2023-2024](https://images.credly.com/size/110x110/images/fd6bb2af-2f05-4d9b-a23e-39f8e309a82d/image.png)](http://www.credly.com/badges/3479f01e-13d6-4008-a5af-decb5e9fec18 "Microsoft Certified Trainer 2023-2024")
-[![GitHub Administration](https://images.credly.com/size/110x110/images/a5e9bdf5-be98-4896-afd2-eff09e511667/image.png)](http://www.credly.com/badges/e7ebc60f-9e40-475f-89d6-34de724248df "GitHub Administration")
+[![GitHub Administration](https://images.credly.com/size/110x110/images/34880f37-8ec8-4542-a78a-73ba6647208e/image.png)](http://www.credly.com/badges/e7ebc60f-9e40-475f-89d6-34de724248df "GitHub Administration")
 [![Kusto Detective Agency - Complete](https://images.credly.com/size/110x110/images/6726e724-5ce8-477e-93f5-6b39d6933273/image.png)](http://www.credly.com/badges/8c8f51b7-e1ba-4213-9f9b-0c16cafe5ceb "Kusto Detective Agency - Complete")
 [![Kusto Detective Agency - Case #5 Badge](https://images.credly.com/size/110x110/images/43b452c6-89f2-4649-bb84-19f3166a833e/image.png)](http://www.credly.com/badges/7e3aa69b-5a82-4f8d-8d17-c6e4564c8e89 "Kusto Detective Agency - Case #5 Badge")
 [![Kusto Detective Agency - Case #4 Badge](https://images.credly.com/size/110x110/images/e7522dc8-886b-4a5b-9436-535e1adaa5c5/image.png)](http://www.credly.com/badges/24ff3a06-06f1-4532-83e3-3cf0ac9bd38b "Kusto Detective Agency - Case #4 Badge")
