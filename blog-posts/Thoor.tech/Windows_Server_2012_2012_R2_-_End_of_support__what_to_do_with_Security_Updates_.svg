@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 610 110" width="600" height="100" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <style>
+      .title {
+        font-size: 1.5em;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        white-space: nowrap;
+      }
+      .description {
+        font-size: 0.75em;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+      }
+      .text {
+        text-align: start;
+        padding: 10px;
+        height: calc(100% - 20px);
+        margin-left: 0;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+        color: black;
+      }
+           .date {
+        font-size: 0.5em;
+        opacity: 0.5;
+        text-align: end;
+        position: absolute;
+        bottom: 0;
+        right: 10px;
+        color: black;
+      }
+      
+      .main {
+        fill: white;
+      }
+      .data {
+        opacity: 0.75;
+        text-align: start;
+        position: absolute;
+        bottom: 0;
+        padding-bottom: 5px;
+        left: 10px;
+        color: black;
+        max-width: 400px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+      }
+      .author {
+        opacity: 0.75;
+        font-size: 0.5em;
+      }
+      .category {
+        background-color: rgba(0, 0, 0, 0.25);
+        border-radius: 0.25em;
+        padding: 0.125em 0.25em;
+        font-size: 0.75em;
+        color: rgba(0, 0, 0, 0.8);
+      }
+    </style>
+  </defs>
+  <g class="main">
+    <rect class="content" width="600" height="100" stroke="rgba(0, 0, 0, 0.5)" x="5" y="5" rx="10" />
+    <foreignObject width="600" height="100" x="5" y="5">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
+        <div class="text">
+          <div class="title">Windows&#0032;Server&#0032;2012&#0047;2012&#0032;R2&#0032;&#0045;&#0032;End&#0032;of&#0032;support&#0044;&#0032;what&#0032;to&#0032;do&#0032;with&#0032;Security&#0032;Updates&#0063;</div>
+          <div class="description">End&#0032;of&#0032;Support&#0032;for&#0032;Windows&#0032;Server&#0032;2012&#0047;2012&#0032;R2&#0010;Windows&#0032;Server&#0032;2012&#0032;and&#0032;Windows&#0032;Server&#0032;2012&#0032;R2&#0032;will&#0032;soon&#0032;enter&#0032;a&#0032;phase&#0032;called&#0032;End&#0032;of&#0032;Support&#0032;&#0040;EOS&#0041;&#0032;and&#0032;the&#0032;date&#0032;for&#0032;that&#0032;is&#0032;on October&#0032;10&#0044;&#0032;2023&#0046;&#0032;After&#0032;this&#0032;date&#0044;&#0032;these&#0032;products&#0032;will&#0032;no&#0032;longer&#0032;receive&#0032;security&#0032;updates&#0044;&#0032;non&#0045;security&#0032;updates&#0044;&#0032;bug&#0032;fixes&#0044;&#0032;technical&#0032;support&#0044;&#0032;or&#0032;online&#0032;technical&#0032;content&#0032;updates&#0046;&#0032;If&#0032;you&#0032;cannot&#0032;upgrade&#0032;to&#0032;the&#0032;next&#0032;version&#0044;&#0032;you&#0032;will&#0032;need&#0032;to&#0032;use&#0032;Extended&#0032;Security&#0032;Updates&#0032;&#0040;ESUs&#0041;&#0032;for&#0032;up&#0032;to&#0032;three&#0032;years&#0046;&#0010;This&#0032;means&#0032;that&#0032;security&#0032;updates&#0032;via&#0032;“Patch&#0045;Tuesday”&#0032;will&#0032;no&#0032;longer&#0032;be&#0032;delivered&#0032;within&#0032;the&#0032;operating&#0032;system’s&#0032;mainstream&#0032;support&#0032;from&#0032;Microsoft&#0046;&#0010;What&#0032;does&#0032;End&#0032;of&#0032;Support&#0032;mean&#0063;&#0010;Microsoft’s&#0032;Lifecycle&#0032;Policy&#0032;offers&#0032;10&#0032;years&#0032;of&#0032;support&#0032;&#0040;5&#0032;years&#0032;for&#0032;Mainstream&#0032;Support&#0032;and&#0032;5&#0032;years&#0032;for&#0032;Extended&#0032;Support&#0041;&#0032;for&#0032;products&#0032;like&#0032;SQL&#0032;Server&#0032;and&#0032;Windows&#0032;Server&#0046;&#0032;According&#0032;to&#0032;the&#0032;policy&#0044;&#0032;there&#0032;will&#0032;be&#0032;no&#0032;patches&#0032;or&#0032;security&#0032;updates&#0032;after&#0032;the&#0032;end&#0032;of&#0032;the&#0032;extended&#0032;support&#0032;period&#0044;&#0032;which&#0032;can&#0032;cause&#0032;security&#0032;and&#0032;compliance&#0032;issues&#0046;&#0032;If&#0032;customers&#0032;cannot&#0032;upgrade&#0032;to&#0032;the&#0032;next&#0032;version&#0044;&#0032;Microsoft&#0032;offers&#0032;Extended&#0032;Security&#0032;Updates&#0032;&#0040;ESU&#0041;&#0032;for&#0032;up&#0032;to&#0032;3&#0032;years&#0032;to&#0032;keep&#0032;customers&#0032;secure&#0032;on&#0032;their&#0032;software&#0032;versions&#0032;that&#0032;end&#0032;with&#0032;support&#0046;&#0010;The&#0032;security&#0032;updates&#0032;you&#0032;get&#0032;with&#0032;the&#0032;help&#0032;of&#0032;ESU&#0032;are&#0058;&#0010;Critical&#0058;&#0032;A&#0032;vulnerability&#0032;whose&#0032;exploitation&#0032;could&#0032;allow&#0032;code&#0032;execution&#0032;without&#0032;user&#0032;interaction&#0044;&#0032;strongly&#0032;recommended&#0032;to&#0032;apply&#0032;these&#0032;updates&#0032;immediately&#0046;&#0010;Important&#0058;&#0032;A&#0032;vulnerability&#0032;whose&#0032;exploitation&#0032;could&#0032;compromise&#0032;the&#0032;confidentiality&#0044;&#0032;integrity&#0044;&#0032;or&#0032;availability&#0032;of&#0032;user&#0032;data&#0044;&#0032;strongly&#0032;recommended&#0032;to&#0032;apply&#0032;these&#0032;updates&#0032;as&#0032;soon&#0032;as&#0032;possible&#0046;&#0010;More&#0032;info&#0032;about&#0032;the&#0032;Severity&#0032;Rating&#0058;&#0032;Security&#0032;Update&#0032;Severity&#0032;Rating&#0032;System&#0010;ESU&#0032;is&#0032;a&#0032;so&#0045;called&#0032;“last&#0032;resort&#0032;option”&#0044;&#0032;and&#0032;for&#0032;Windows&#0032;2012&#0047;2012&#0032;R2&#0044;&#0032;the&#0032;end&#0032;date&#0032;will&#0032;be&#0032;October&#0032;13&#0044;&#0032;2026&#0044;&#0032;i&#0046;e&#0046;&#0044;&#0032;in&#0032;three&#0032;years&#0044;&#0032;regardless&#0032;of&#0032;whether&#0032;the&#0032;servers&#0032;are&#0032;in&#0032;Azure&#0032;or&#0032;on&#0045;premises&#0046;&#0010;However&#0044;&#0032;it&#0032;is&#0032;possible&#0032;to&#0032;get&#0032;these&#0032;security&#0032;updates&#0032;in&#0032;other&#0032;ways&#0032;if&#0032;one&#0032;cannot&#0032;move&#0032;to&#0032;newer&#0032;operating&#0032;systems&#0044;&#0032;and&#0032;these&#0032;ways&#0032;are&#0058;&#0010;Migrate&#0032;to&#0032;Azure&#0044;&#0032;this&#0032;way&#0032;we&#0032;automatically&#0032;get&#0032;ESU&#0044;&#0032;costs&#0032;nothing&#0044;&#0032;and&#0032;no&#0032;MAK&#0045;keys&#0032;are&#0032;needed&#0046;&#0010;Azure&#0032;Arc&#0045;enabled&#0032;servers&#0044;&#0032;through&#0032;the&#0032;Azure&#0032;Arc&#0032;agent&#0044;&#0032;we&#0032;can&#0032;assign&#0032;ESU&#0032;licenses&#0032;to&#0032;specific&#0032;servers&#0032;that&#0032;we&#0032;manage&#0032;ourselves&#0032;in&#0032;the&#0032;Azure&#0032;portal&#0044;&#0032;the&#0032;cost&#0032;will&#0032;be&#0032;added&#0032;to&#0032;the&#0032;Azure&#0032;subscription&#0032;where&#0032;you&#0032;create&#0032;the&#0032;ESU&#0032;licenses&#0032;&#0040;see&#0032;prices&#0032;further&#0032;down&#0032;in&#0032;this&#0032;post&#0041;&#0046;&#0010;Azure&#0032;Stack&#0032;&#0040;incl&#0046;&#0032;HCI&#0044;&#0032;Hub&#0032;&#0038;&#0032;Edge&#0041;&#0044;&#0032;Azure&#0032;VMware&#0032;Solutions&#0044;&#0032;Azure&#0032;Dedicated&#0032;Hosts&#0044;&#0032;Azure&#0032;Nutanix&#0032;Solution&#0058;&#0032;then&#0032;you&#0032;get&#0032;ESU&#0032;at&#0032;no&#0032;extra&#0032;cost&#0046;&#0010;ESU&#0032;variants&#0010;Everything&#0032;depends&#0032;on&#0032;what&#0032;your&#0032;environment&#0032;looks&#0032;like&#0044;&#0032;whether&#0032;we&#0032;can&#0032;consolidate&#0032;all&#0032;Windows&#0032;Server&#0032;2012&#0047;2012&#0032;R2&#0032;VMs&#0032;to&#0032;the&#0032;same&#0032;hypervisor&#0032;host&#0032;&#0040;with&#0032;redundancy&#0032;if&#0032;required&#0044;&#0032;which&#0032;is&#0032;recommended&#0041;&#0032;or&#0032;if&#0032;you&#0032;should&#0032;buy&#0032;a&#0032;license&#0032;per&#0032;VM&#0046;&#0010;ESU&#0032;is&#0032;offered&#0032;in&#0032;two&#0032;flavors&#0044;&#0032;Physical&#0032;Core&#0032;or&#0032;Virtual&#0032;Core&#0046;&#0010;Physical&#0032;Core&#0058;&#0032;Min&#0046;&#0032;16&#0032;cores&#0032;when&#0032;purchasing&#0044;&#0032;match&#0032;if&#0032;the&#0032;server&#0032;runs&#0032;Standard&#0032;or&#0032;Enterprise&#0032;version&#0032;of&#0032;Windows&#0032;Server&#0046;&#0010;&#0032;&#0032;&#0032;&#0032;&#0010;Standard&#0032;Edition&#0032;allows&#0032;2&#0032;VMs&#0032;&#0040;in&#0032;accordance&#0032;with&#0032;Windows&#0032;Server&#0032;licensing&#0041;&#0010;Datacenter&#0032;Edition&#0032;has&#0032;no&#0032;limitation&#0032;regarding&#0032;the&#0032;number&#0032;of&#0032;VMs&#0046;&#0010;Virtual&#0032;Core&#0058;&#0032;Min&#0032;8&#0032;cores&#0032;when&#0032;purchasing&#0046;&#0032;In&#0032;the&#0032;Azure&#0032;portal&#0044;&#0032;you&#0032;see&#0032;two&#0032;different&#0032;Core&#0032;Packs&#0032;&#0040;16&#0032;cores&#0032;and&#0032;2&#0032;cores&#0041;&#0046;&#0010;So&#0032;depending&#0032;on&#0032;the&#0032;number&#0032;of&#0032;VMs&#0032;you&#0032;want&#0032;to&#0032;cover&#0032;in&#0032;your&#0032;environment&#0044;&#0032;you&#0032;have&#0032;to&#0032;calculate&#0032;whether&#0032;the&#0032;Datacenter&#0032;or&#0032;Standard&#0032;license&#0032;is&#0032;sufficient&#0032;for&#0032;the&#0032;purpose&#0046;&#0010;Microsoft&#0032;clarifies&#0058;&#0032;“Each&#0032;processor&#0032;needs&#0032;to&#0032;be&#0032;licensed&#0032;with&#0032;a&#0032;minimum&#0032;of&#0032;eight&#0032;cores&#0032;&#0040;four&#0032;2&#0045;pack&#0032;Core&#0032;Licenses&#0041;&#0046;&#0032;Each&#0032;physical&#0032;server&#0044;&#0032;including&#0032;single&#0045;processor&#0032;servers&#0044;&#0032;will&#0032;need&#0032;to&#0032;be&#0032;licensed&#0032;with&#0032;a&#0032;minimum&#0032;of&#0032;16&#0032;Core&#0032;Licenses&#0032;&#0040;eight&#0032;2&#0045;pack&#0032;of&#0032;Core&#0032;Licenses&#0032;or&#0032;one&#0032;16&#0045;pack&#0032;of&#0032;Core&#0032;Licenses&#0041;&#0046;&#0032;Additional&#0032;cores&#0032;can&#0032;then&#0032;be&#0032;licensed&#0032;in&#0032;increments&#0032;of&#0032;two&#0032;cores&#0032;&#0040;one&#0032;2&#0045;pack&#0032;of&#0032;Core&#0032;Licenses&#0041;&#0032;for&#0032;servers&#0032;with&#0032;core&#0032;densities&#0032;higher&#0032;than&#0032;8&#0046;”&#0010;Price&#0032;of&#0032;ESU&#0032;in&#0032;Euro&#0032;for&#0032;Windows&#0032;Server&#0032;2012&#0047;2012&#0032;R2&#0010;ESU&#0010;&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;Datacenter&#0032;Edition&#0032;price&#0010;&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;Standard&#0032;Edition&#0032;price&#0010;&#0032;&#0032;&#0032;&#0032;&#0010;16&#0032;core&#0010;&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;€403&#0010;&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;€70&#0010;&#0032;&#0032;&#0032;&#0032;&#0010;8&#0032;core&#0010;&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;€201&#0010;&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;€35&#0010;&#0032;&#0032;&#0032;&#0032;&#0010;2&#0032;core&#0010;&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;€51&#0010;&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;€8&#0046;74&#0010;&#0032;&#0032;&#0032;&#0032;&#0010;Clarification&#0010;From&#0032;Microsoft&#0058;&#0010;The&#0032;minimum&#0032;number&#0032;of&#0032;cores&#0032;is&#0032;16&#0032;for&#0032;physical&#0032;and&#0032;8&#0032;for&#0032;virtual&#0032;core&#0032;license&#0046;&#0010;In&#0032;order&#0032;to&#0032;purchase&#0032;ESUs&#0044;&#0032;you&#0032;must&#0032;have&#0032;Software&#0032;Assurance&#0032;through&#0032;Volume&#0032;Licensing&#0032;Programs&#0032;such&#0032;as&#0032;an&#0032;Enterprise&#0032;Agreement&#0032;&#0040;EA&#0041;&#0044;&#0032;Enterprise&#0032;Agreement&#0032;Subscription&#0032;&#0040;EAS&#0041;&#0044;&#0032;Enrollment&#0032;for&#0032;Education&#0032;Solutions&#0032;&#0040;EES&#0041;&#0044;&#0032;or&#0032;Server&#0032;and&#0032;Cloud&#0032;Enrollment&#0032;&#0040;SCE&#0041;&#0046;&#0010;Quick&#0032;examples&#0010;We&#0032;have&#0032;4&#0032;physical&#0032;servers&#0032;with&#0032;8&#0032;cores&#0032;each&#0032;running&#0032;Windows&#0032;Server&#0032;Standard&#0058;&#0032;Buy&#0032;4&#0032;ESU&#0032;of&#0032;16&#0032;cores&#0032;per&#0032;license&#0032;&#0040;min&#0046;&#0032;is&#0032;16&#0032;cores&#0032;per&#0032;license&#0041;&#0046;&#0010;We&#0032;have&#0032;a&#0032;physical&#0032;server&#0032;with&#0032;4&#0032;VMs&#0032;each&#0032;with&#0032;4&#0032;cores&#0044;&#0032;the&#0032;host&#0032;has&#0032;16&#0032;cores&#0032;and&#0032;runs&#0032;Standard&#0032;Edition&#0058;&#0032;Buy&#0032;1&#0032;16&#0032;core&#0032;standard&#0032;license&#0032;and&#0032;apply&#0032;to&#0032;Arc&#0032;objects&#0046;&#0010;We&#0032;have&#0032;a&#0032;physical&#0032;server&#0032;with&#0032;4&#0032;VMs&#0032;each&#0032;with&#0032;8&#0032;cores&#0044;&#0032;the&#0032;host&#0032;has&#0032;32&#0032;cores&#0032;and&#0032;runs&#0032;Standard&#0032;Edition&#0058;&#0032;Buy&#0032;as&#0032;option&#0032;1&#0032;or&#0032;buy&#0032;4&#0032;8&#0032;cores&#0032;licenses&#0032;and&#0032;apply&#0032;to&#0032;Arc&#0032;objects&#0046;&#0010;Pre&#0045;requisites&#0032;for&#0032;ESU&#0032;via&#0032;Azure&#0010;Azure&#0032;Arc&#0032;onboarded&#0044;&#0032;a&#0032;later&#0032;version&#0032;than&#0032;version&#0032;1&#0046;34&#0046;&#0010;Windows&#0032;Server&#0032;2012&#0047;2012&#0032;R2&#0046;&#0010;The&#0032;VM&#0032;itself&#0032;cannot&#0032;run&#0032;in&#0032;Azure&#0032;Stack&#0032;HCI&#0044;&#0032;Azure&#0032;VMware&#0032;Solution&#0044;&#0032;or&#0032;as&#0032;an&#0032;Azure&#0032;VM&#0032;&#0045;&#0032;then&#0032;ESU&#0032;is&#0032;free&#0046;&#0010;To&#0032;then&#0032;be&#0032;able&#0032;to&#0032;use&#0032;the&#0032;security&#0032;updates&#0032;that&#0032;Microsoft&#0032;releases&#0032;monthly&#0032;during&#0032;Patch&#0045;Tuesday&#0044;&#0032;we&#0032;recommend&#0032;Azure&#0032;Update&#0032;Manager&#0044;&#0032;which&#0032;today&#0032;costs&#0032;&#0036;5&#0032;per&#0032;server&#0032;per&#0032;month&#0032;for&#0032;Arc&#0045;enabled&#0032;servers&#0046;&#0032;For&#0032;Azure&#0032;VMs&#0044;&#0032;the&#0032;solution&#0032;is&#0032;free&#0046;</div>
+          <div class="date">9&#0047;19&#0047;23</div>
+          <div class="data">
+            <span class="author"></span> 
+          </div>
+        </div>
+      </div>
+    </foreignObject>
+  </g>
+</svg>

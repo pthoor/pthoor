@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 610 110" width="600" height="100" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <style>
+      .title {
+        font-size: 1.5em;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        white-space: nowrap;
+      }
+      .description {
+        font-size: 0.75em;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+      }
+      .text {
+        text-align: start;
+        padding: 10px;
+        height: calc(100% - 20px);
+        margin-left: 0;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+        color: black;
+      }
+           .date {
+        font-size: 0.5em;
+        opacity: 0.5;
+        text-align: end;
+        position: absolute;
+        bottom: 0;
+        right: 10px;
+        color: black;
+      }
+      
+      .main {
+        fill: white;
+      }
+      .data {
+        opacity: 0.75;
+        text-align: start;
+        position: absolute;
+        bottom: 0;
+        padding-bottom: 5px;
+        left: 10px;
+        color: black;
+        max-width: 400px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+      }
+      .author {
+        opacity: 0.75;
+        font-size: 0.5em;
+      }
+      .category {
+        background-color: rgba(0, 0, 0, 0.25);
+        border-radius: 0.25em;
+        padding: 0.125em 0.25em;
+        font-size: 0.75em;
+        color: rgba(0, 0, 0, 0.8);
+      }
+    </style>
+  </defs>
+  <g class="main">
+    <rect class="content" width="600" height="100" stroke="rgba(0, 0, 0, 0.5)" x="5" y="5" rx="10" />
+    <foreignObject width="600" height="100" x="5" y="5">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
+        <div class="text">
+          <div class="title">New&#0032;Patch&#0032;Management&#0032;tool&#0032;in&#0032;the&#0032;cloud&#0032;&#0045;&#0032;Azure&#0032;Update&#0032;Manager&#0032;&#0040;AUM&#0041;&#0032;is&#0032;now&#0032;GA</div>
+          <div class="description">Azure&#0032;Update&#0032;Manager&#0032;&#0040;AUM&#0041;&#0032;is&#0032;now&#0032;GA&#0010;Finally&#0032;we&#0032;have&#0032;a&#0032;more&#0032;streamlined&#0032;patch&#0032;management&#0032;tool&#0032;in&#0032;Azure&#0044;&#0032;and&#0032;it’s&#0032;called&#0032;Azure&#0032;Update&#0032;Manager&#0032;&#0040;AUM&#0041;&#0046;&#0032;It’s&#0032;now&#0032;GA&#0032;&#0040;Generally&#0032;Available&#0041;&#0032;from&#0032;Microsoft&#0046;&#0032;This&#0032;is&#0032;the&#0032;new&#0032;Patch&#0032;Management&#0032;tool&#0032;in&#0032;the&#0032;cloud&#0032;that&#0032;can&#0032;be&#0032;used&#0032;to&#0032;patch&#0032;Windows&#0032;and&#0032;Linux&#0032;servers&#0032;in&#0032;Azure&#0044;&#0032;on&#0045;premises&#0044;&#0032;and&#0032;other&#0032;clouds&#0046;&#0032;In&#0032;this&#0032;post&#0032;we&#0032;will&#0032;look&#0032;at&#0032;the&#0032;cost&#0032;of&#0032;AUM&#0046;&#0010;During&#0032;the&#0032;preview&#0044;&#0032;AUM&#0032;was&#0032;free&#0032;to&#0032;use&#0044;&#0032;but&#0032;now&#0032;that&#0032;it’s&#0032;GA&#0044;&#0032;we&#0032;have&#0032;to&#0032;pay&#0032;for&#0032;it&#0032;&#0045;&#0032;or&#0032;do&#0032;we&#0063;&#0032;The&#0032;cost&#0032;of&#0032;AUM&#0032;is&#0032;based&#0032;on&#0032;some&#0032;logic&#0032;behind&#0032;the&#0032;scene&#0044;&#0032;and&#0032;you&#0032;will&#0032;learn&#0032;that&#0032;in&#0032;this&#0032;post&#0046;&#0010;What&#0032;is&#0032;Azure&#0032;Update&#0032;Manager&#0032;&#0040;AUM&#0041;&#0063;&#0010;Have&#0032;you&#0032;used&#0032;Automation&#0032;Update&#0032;management&#0032;before&#0063;&#0032;Azure&#0032;Update&#0032;Manager&#0032;is&#0032;the&#0032;version&#0032;2&#0032;of&#0032;that&#0032;product&#0044;&#0032;and&#0032;now&#0032;we&#0032;don’t&#0032;need&#0032;Log&#0032;Analytics&#0032;agent&#0032;&#0040;MMA&#0041;&#0032;to&#0032;be&#0032;installed&#0032;on&#0032;the&#0032;servers&#0032;we&#0032;want&#0032;to&#0032;patch&#0046;&#0032;We&#0032;can&#0032;patch&#0032;Windows&#0032;and&#0032;Linux&#0032;servers&#0032;in&#0032;Azure&#0044;&#0032;on&#0045;premises&#0044;&#0032;and&#0032;other&#0032;clouds&#0046;&#0032;The&#0032;good&#0032;thing&#0032;is&#0032;that&#0032;this&#0032;is&#0032;now&#0032;a&#0032;native&#0032;Azure&#0032;service&#0046;&#0010;Price&#0032;for&#0032;AUM&#0010;VM&#0032;Type&#0010;&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;Price&#0032;per&#0032;day&#0010;&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;Price&#0032;per&#0032;month&#0010;&#0032;&#0032;&#0032;&#0032;&#0010;Azure&#0032;VM&#0010;&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;Free&#0010;&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;Free&#0010;&#0032;&#0032;&#0032;&#0032;&#0010;Arc&#0045;enabled&#0032;VM&#0032;without&#0032;Defender&#0032;for&#0032;Cloud&#0010;&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;&#0036;0&#0046;167&#0010;&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;&#0036;5&#0010;&#0032;&#0032;&#0032;&#0032;&#0010;Arc&#0045;enabled&#0032;VM&#0032;with&#0032;Defender&#0032;for&#0032;Cloud&#0032;Plan&#0032;1&#0010;&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;&#0036;0&#0046;167&#0010;&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;&#0036;5&#0010;&#0032;&#0032;&#0032;&#0032;&#0010;Arc&#0045;enabled&#0032;VM&#0032;with&#0032;Defender&#0032;for&#0032;Cloud&#0032;Plan&#0032;2&#0010;&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;Free&#0010;&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;Free&#0010;&#0032;&#0032;&#0032;&#0032;&#0010;Arc&#0045;enabled&#0032;VM&#0032;with&#0032;Extended&#0032;Security&#0032;Update&#0032;license&#0010;&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;Free&#0010;&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;Free&#0010;&#0032;&#0032;&#0032;&#0032;&#0010;So&#0032;if&#0032;you&#0032;have&#0032;an&#0032;Arc&#0045;enabled&#0032;VM&#0032;without&#0032;Defender&#0032;for&#0032;Cloud&#0032;license&#0032;and&#0032;that&#0032;machine&#0032;are&#0032;connected&#0032;10&#0032;days&#0032;per&#0032;month&#0044;&#0032;the&#0032;cost&#0032;will&#0032;be&#0032;&#0036;1&#0046;67&#0032;per&#0032;month&#0032;for&#0032;that&#0032;server&#0046;&#0010;What’s&#0032;driving&#0032;the&#0032;price&#0032;for&#0032;Arc&#0045;enabled&#0032;servers&#0032;with&#0032;AUM&#0063;&#0010;When&#0032;determining&#0032;the&#0032;cost&#0032;for&#0032;using&#0032;Azure&#0032;Update&#0032;Manager&#0044;&#0032;it’s&#0032;essential&#0032;to&#0032;understand&#0032;how&#0032;a&#0032;machine&#0032;is&#0032;classified&#0032;as&#0032;‘managed’&#0032;for&#0032;a&#0032;given&#0032;day&#0046;&#0032;A&#0032;machine&#0032;falls&#0032;under&#0032;this&#0032;category&#0032;if&#0058;&#0010;The&#0032;machine&#0032;shows&#0032;a&#0032;‘Connected’&#0032;status&#0032;for&#0032;Arc&#0032;during&#0032;any&#0032;operation&#0032;&#0040;whether&#0032;it’s&#0032;patching&#0032;on&#0045;demand&#0044;&#0032;through&#0032;a&#0032;scheduled&#0032;task&#0044;&#0032;or&#0032;an&#0032;assessment&#0041;&#0046;&#0032;This&#0032;connection&#0032;can&#0032;be&#0032;at&#0032;any&#0032;specific&#0032;time&#0032;of&#0032;the&#0032;day&#0044;&#0032;especially&#0032;if&#0032;it’s&#0032;linked&#0032;to&#0032;a&#0032;schedule&#0044;&#0032;even&#0032;if&#0032;no&#0032;tasks&#0032;are&#0032;carried&#0032;out&#0032;that&#0032;day&#0046;&#0010;Any&#0032;of&#0032;the&#0032;following&#0032;activities&#0032;occur&#0032;on&#0032;that&#0032;day&#0058;&#0010;A&#0032;direct&#0032;command&#0032;to&#0032;patch&#0032;or&#0032;assess&#0032;is&#0032;given&#0046;&#0010;The&#0032;machine&#0032;undergoes&#0032;a&#0032;routine&#0032;check&#0032;for&#0032;outstanding&#0032;patches&#0046;&#0010;The&#0032;machine&#0032;is&#0032;linked&#0032;to&#0032;an&#0032;active&#0032;schedule&#0044;&#0032;either&#0032;in&#0032;a&#0032;fixed&#0032;or&#0032;flexible&#0032;manner&#0046;&#0010;Quick&#0032;AUM&#0032;pricing&#0032;examples&#0032;with&#0032;Azure&#0032;Arc&#0045;enabled&#0032;servers&#0010;Example&#0032;1&#0010;Let’s&#0032;say&#0032;you&#0032;have&#0032;a&#0032;server&#0032;that&#0032;is&#0032;connected&#0032;to&#0032;Azure&#0032;Arc&#0044;&#0032;but&#0032;you&#0032;don’t&#0032;have&#0032;any&#0032;schedule&#0032;for&#0032;patching&#0046;&#0032;You&#0032;will&#0032;not&#0032;be&#0032;charged&#0032;for&#0032;this&#0032;server&#0046;&#0010;Example&#0032;2&#0010;Let’s&#0032;say&#0032;you&#0032;have&#0032;a&#0032;server&#0032;that&#0032;is&#0032;connected&#0032;to&#0032;Azure&#0032;Arc&#0032;the&#0032;entire&#0032;month&#0044;&#0032;and&#0032;you&#0032;have&#0032;a&#0032;schedule&#0032;for&#0032;patching&#0046;&#0032;You&#0032;will&#0032;be&#0032;charged&#0032;for&#0032;this&#0032;server&#0032;at&#0032;the&#0032;maximum&#0032;price&#0032;of&#0032;&#0036;5&#0032;per&#0032;month&#0046;&#0010;Example&#0032;3&#0010;Let’s&#0032;say&#0032;you&#0032;have&#0032;a&#0032;server&#0032;that&#0032;is&#0032;connected&#0032;to&#0032;Azure&#0032;Arc&#0032;the&#0032;entire&#0032;month&#0044;&#0032;and&#0032;you&#0032;have&#0032;a&#0032;schedule&#0032;for&#0032;patching&#0046;&#0032;You&#0032;have&#0032;also&#0032;implemented&#0032;Defender&#0032;for&#0032;Cloud&#0032;Plan&#0032;2&#0032;to&#0032;the&#0032;subscription&#0032;that&#0032;hold&#0032;the&#0032;Azure&#0032;Arc&#0045;enabled&#0032;servers&#0046;&#0032;You&#0032;will&#0032;not&#0032;be&#0032;charged&#0032;for&#0032;this&#0032;server&#0046;&#0010;Example&#0032;4&#0010;Let’s&#0032;say&#0032;you&#0032;have&#0032;a&#0032;server&#0032;that&#0032;is&#0032;connected&#0032;to&#0032;Azure&#0032;Arc&#0032;the&#0032;entire&#0032;month&#0044;&#0032;and&#0032;you&#0032;have&#0032;a&#0032;schedule&#0032;for&#0032;patching&#0046;&#0032;You&#0032;have&#0032;also&#0032;implemented&#0032;Defender&#0032;for&#0032;Cloud&#0032;Plan&#0032;1&#0032;to&#0032;the&#0032;subscription&#0032;that&#0032;hold&#0032;the&#0032;Azure&#0032;Arc&#0045;enabled&#0032;servers&#0046;&#0032;You&#0032;will&#0032;be&#0032;charged&#0032;for&#0032;this&#0032;server&#0032;at&#0032;the&#0032;maximum&#0032;price&#0032;of&#0032;&#0036;5&#0032;per&#0032;month&#0046;&#0010;Example&#0032;5&#0010;Let’s&#0032;say&#0032;you&#0032;have&#0032;a&#0032;server&#0032;that&#0032;is&#0032;connected&#0032;to&#0032;Azure&#0032;Arc&#0032;for&#0032;15&#0032;days&#0044;&#0032;and&#0032;you&#0032;have&#0032;a&#0032;schedule&#0032;for&#0032;patching&#0046;&#0032;You&#0032;have&#0032;also&#0032;implemented&#0032;Defender&#0032;for&#0032;Cloud&#0032;Plan&#0032;1&#0032;to&#0032;the&#0032;subscription&#0032;that&#0032;hold&#0032;the&#0032;Azure&#0032;Arc&#0045;enabled&#0032;servers&#0046;&#0032;You&#0032;will&#0032;be&#0032;charged&#0032;for&#0032;this&#0032;server&#0032;at&#0032;the&#0032;rate&#0032;of&#0032;&#0036;0&#0046;167&#0032;per&#0032;day&#0044;&#0032;which&#0032;is&#0032;&#0036;2&#0046;50&#0032;per&#0032;month&#0046;&#0010;Summary&#0010;Azure&#0032;Update&#0032;Manager&#0032;&#0040;AUM&#0041;&#0032;is&#0032;now&#0032;GA&#0032;and&#0032;is&#0032;a&#0032;new&#0032;Patch&#0032;Management&#0032;tool&#0032;in&#0032;Azure&#0032;that&#0032;can&#0032;be&#0032;used&#0032;to&#0032;patch&#0032;Windows&#0032;and&#0032;Linux&#0032;systems&#0032;in&#0032;Azure&#0044;&#0032;on&#0045;premises&#0044;&#0032;and&#0032;other&#0032;clouds&#0046;&#0032;In&#0032;this&#0032;post&#0032;we&#0032;looked&#0032;at&#0032;the&#0032;cost&#0032;of&#0032;AUM&#0046;&#0032;We&#0032;learned&#0032;that&#0032;the&#0032;cost&#0032;is&#0032;based&#0032;on&#0032;the&#0032;number&#0032;of&#0032;days&#0032;a&#0032;server&#0032;is&#0032;connected&#0032;to&#0032;Azure&#0032;Arc&#0044;&#0032;if&#0032;you&#0032;have&#0032;a&#0032;schedule&#0032;associated&#0032;to&#0032;the&#0032;server&#0032;or&#0032;will&#0032;be&#0032;using&#0032;the&#0032;on&#0045;demand&#0032;commands&#0032;for&#0032;patching&#0044;&#0032;and&#0032;if&#0032;you&#0032;have&#0032;Defender&#0032;for&#0032;Cloud&#0032;Plan&#0032;1&#0032;or&#0032;2&#0032;implemented&#0032;in&#0032;the&#0032;subscription&#0032;that&#0032;hold&#0032;the&#0032;Azure&#0032;Arc&#0045;enabled&#0032;servers&#0046;&#0010;Plan&#0032;you&#0032;cloud&#0032;journey&#0032;wisely&#0044;&#0032;see&#0032;if&#0032;you&#0032;already&#0032;have&#0032;Defender&#0032;for&#0032;Cloud&#0032;activated&#0032;in&#0032;your&#0032;subscription&#0044;&#0032;and&#0032;if&#0032;you&#0032;don’t&#0032;have&#0032;that&#0044;&#0032;see&#0032;if&#0032;you&#0032;can&#0032;implement&#0032;that&#0032;to&#0032;save&#0032;some&#0032;money&#0032;on&#0032;the&#0032;AUM&#0032;cost&#0046;&#0032;And&#0032;do&#0032;you&#0032;have&#0032;some&#0032;old&#0032;systems&#0032;with&#0032;Windows&#0032;Server&#0032;2012&#0047;2012&#0032;R2&#0063;&#0032;Then&#0032;you&#0032;can&#0032;use&#0032;AUM&#0032;to&#0032;patch&#0032;those&#0032;systems&#0032;with&#0032;ESU&#0032;&#0040;Extended&#0032;Security&#0032;Updates&#0041;&#0032;for&#0032;free&#0046;</div>
+          <div class="date">9&#0047;21&#0047;23</div>
+          <div class="data">
+            <span class="author"></span> 
+          </div>
+        </div>
+      </div>
+    </foreignObject>
+  </g>
+</svg>

@@ -33,16 +33,16 @@ Blog: 'https://thoor.tech'
 
 
 
-[Read more](https://thoor.tech/)
-> Last updated: Saturday, September 16, 2023 at 12:18:19 AM
+[Read more](/)
+> Last updated: Saturday, September 23, 2023 at 12:18:07 AM
 
 > Showing 5 of 10 posts.
 
-[![Kusto Detective Agency - Season 2 Case 7](https://raw.githubusercontent.com/pthoor/pthoor/main/blog-posts/Thoor.tech/Kusto_Detective_Agency_-_Season_2_Case_7.svg)](https://thoor.tech/KDA-S2E7/)
-[![Microsoft Sentinel and Azure OpenAI](https://raw.githubusercontent.com/pthoor/pthoor/main/blog-posts/Thoor.tech/Microsoft_Sentinel_and_Azure_OpenAI.svg)](https://thoor.tech/sentinel-and-azure-openai/)
-[![Kusto Detective Agency - Season 2 Case 6](https://raw.githubusercontent.com/pthoor/pthoor/main/blog-posts/Thoor.tech/Kusto_Detective_Agency_-_Season_2_Case_6.svg)](https://thoor.tech/KDA-S2E6/)
-[![Defender for Office 365 Blog Series - Part 3](https://raw.githubusercontent.com/pthoor/pthoor/main/blog-posts/Thoor.tech/Defender_for_Office_365_Blog_Series_-_Part_3.svg)](https://thoor.tech/defender-for-office-365-blog-series-part3/)
-[![Manual Microsoft Sentinel incident from an Azure Workbook](https://raw.githubusercontent.com/pthoor/pthoor/main/blog-posts/Thoor.tech/Manual_Microsoft_Sentinel_incident_from_an_Azure_Workbook.svg)](https://thoor.tech/sentinel-incident-from-azure-workbook/)
+[![New Patch Management tool in the cloud - Azure Update Manager (AUM) is now GA](https://raw.githubusercontent.com/pthoor/pthoor/main/blog-posts/Thoor.tech/New_Patch_Management_tool_in_the_cloud_-_Azure_Update_Manager_(AUM)_is_now_GA.svg)](/Azure-Update-Manager-Costs/)
+[![Windows Server 2012/2012 R2 - End of support, what to do with Security Updates?](https://raw.githubusercontent.com/pthoor/pthoor/main/blog-posts/Thoor.tech/Windows_Server_2012_2012_R2_-_End_of_support__what_to_do_with_Security_Updates_.svg)](/Windows-Server-2012-ESU/)
+[![Kusto Detective Agency - Season 2 Case 7](https://raw.githubusercontent.com/pthoor/pthoor/main/blog-posts/Thoor.tech/Kusto_Detective_Agency_-_Season_2_Case_7.svg)](/KDA-S2E7/)
+[![Microsoft Sentinel and Azure OpenAI](https://raw.githubusercontent.com/pthoor/pthoor/main/blog-posts/Thoor.tech/Microsoft_Sentinel_and_Azure_OpenAI.svg)](/sentinel-and-azure-openai/)
+[![Kusto Detective Agency - Season 2 Case 6](https://raw.githubusercontent.com/pthoor/pthoor/main/blog-posts/Thoor.tech/Kusto_Detective_Agency_-_Season_2_Case_6.svg)](/KDA-S2E6/)
 
 
 <!-- blog-post-list:end -->
