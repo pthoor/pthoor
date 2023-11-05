@@ -65,6 +65,7 @@ Blog: 'https://thoor.tech'
 # 🎓 Certificates & Trainings [@Credly](https://www.credly.com/users/pierre-thoor/badges?sort=-state_updated_at&page=1)
 <!--START_SECTION:badges-->
 
+[![Microsoft Security Immersion Completion Badge](https://images.credly.com/size/110x110/images/693308cf-f47f-41c0-8e71-0f28e4bc6a52/image.png)](http://www.credly.com/badges/7235876c-a64e-4857-90e6-842c0ec02e53 "Microsoft Security Immersion Completion Badge")
 [![New rank: Special Detective Agent](https://images.credly.com/size/110x110/images/b096f449-fce1-42d7-be93-e6e1e32e171b/image.png)](http://www.credly.com/badges/871e2a10-01fc-4c8e-82d4-f7665d4b409e "New rank: Special Detective Agent")
 [![New rank: Principal Detective](https://images.credly.com/size/110x110/images/8db7e105-c19e-4df8-87a4-ed1d5ccbc32b/image.png)](http://www.credly.com/badges/83e55150-1041-4d57-a375-9a8f240f0263 "New rank: Principal Detective")
 [![New Rank: Kusto Senior Detective II](https://images.credly.com/size/110x110/images/2fb50859-656e-4390-b4ca-88bc2b619867/image.png)](http://www.credly.com/badges/4c8dff8f-a40f-42f8-a932-e5067fee5937 "New Rank: Kusto Senior Detective II")
@@ -112,7 +113,6 @@ Blog: 'https://thoor.tech'
 [![Microsoft Certified: Identity and Access Administrator Associate](https://images.credly.com/size/110x110/images/91295436-0704-4b98-8e1a-ef5f937bda21/identity-and-access-administrator-associate-600x600.png)](http://www.credly.com/badges/2e79b7db-8dee-4d08-ad5c-5d8d466faa8b "Microsoft Certified: Identity and Access Administrator Associate")
 [![Microsoft Certified: Security Operations Analyst Associate](https://images.credly.com/size/110x110/images/7e75516f-5149-4d19-8d09-aa3dab4907cb/security-operations-analyst-associate-600x600.png)](http://www.credly.com/badges/9eb73d01-3320-4113-a2fe-e444d8ff8071 "Microsoft Certified: Security Operations Analyst Associate")
 [![Microsoft Certified: Azure Stack Hub Operator Associate](https://images.credly.com/size/110x110/images/58a01ed5-1323-45f5-bc6b-2ab9beaf2ccf/azure-stack-hub-operator-associate-600x600.png)](http://www.credly.com/badges/29517c20-5e1f-40fd-8535-f05791d4565b "Microsoft Certified: Azure Stack Hub Operator Associate")
-[![AZ-400: Designing and Implementing Microsoft DevOps Solutions](https://images.credly.com/size/110x110/images/107e2eb6-f394-40eb-83d2-d8c9b7d34555/exam-az400-600x600.png)](http://www.credly.com/badges/586f074a-cacd-444c-a731-3c4c0045e1de "AZ-400: Designing and Implementing Microsoft DevOps Solutions")
 <!--END_SECTION:badges-->
 
 # 🔔 Follow me
