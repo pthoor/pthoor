@@ -34,15 +34,15 @@ Blog: 'https://thoor.tech'
 
 
 [Read more](/)
-> Last updated: Saturday, March 30, 2024 at 12:19:08 AM
+> Last updated: Saturday, April 6, 2024 at 12:19:22 AM
 
 > Showing 5 of 10 posts.
 
+[![Deploy and destroy Copilot for Security with Bicep and GitHub Actions](https://raw.githubusercontent.com/pthoor/pthoor/main/blog-posts/Thoor.tech/Deploy_and_destroy_Copilot_for_Security_with_Bicep_and_GitHub_Actions.svg)](/Copilot-for-Security-deploy-and-destroy/)
 [![Configure Defender for Cloud workload protections with Azure Policy](https://raw.githubusercontent.com/pthoor/pthoor/main/blog-posts/Thoor.tech/Configure_Defender_for_Cloud_workload_protections_with_Azure_Policy.svg)](/DefenderforCloud-Workload-Protection-With-Azure-Policy/)
 [![Demystifying Microsoft Defender for Cloud and Defender CSPM cost](https://raw.githubusercontent.com/pthoor/pthoor/main/blog-posts/Thoor.tech/Demystifying_Microsoft_Defender_for_Cloud_and_Defender_CSPM_cost.svg)](/Demystifying-MDC-and-CSPM-cost/)
 [![New Patch Management tool in the cloud - Azure Update Manager (AUM) is now GA](https://raw.githubusercontent.com/pthoor/pthoor/main/blog-posts/Thoor.tech/New_Patch_Management_tool_in_the_cloud_-_Azure_Update_Manager_(AUM)_is_now_GA.svg)](/Azure-Update-Manager-Costs/)
 [![Windows Server 2012/2012 R2 - End of support, what to do with Security Updates?](https://raw.githubusercontent.com/pthoor/pthoor/main/blog-posts/Thoor.tech/Windows_Server_2012_2012_R2_-_End_of_support__what_to_do_with_Security_Updates_.svg)](/Windows-Server-2012-ESU/)
-[![Kusto Detective Agency - Season 2 Case 7](https://raw.githubusercontent.com/pthoor/pthoor/main/blog-posts/Thoor.tech/Kusto_Detective_Agency_-_Season_2_Case_7.svg)](/KDA-S2E7/)
 
 
 <!-- blog-post-list:end -->

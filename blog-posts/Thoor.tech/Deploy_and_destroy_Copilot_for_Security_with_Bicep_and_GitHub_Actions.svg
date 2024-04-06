@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 610 110" width="600" height="100" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <style>
+      .title {
+        font-size: 1.5em;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        white-space: nowrap;
+      }
+      .description {
+        font-size: 0.75em;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+      }
+      .text {
+        text-align: start;
+        padding: 10px;
+        height: calc(100% - 20px);
+        margin-left: 0;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+        color: black;
+      }
+           .date {
+        font-size: 0.5em;
+        opacity: 0.5;
+        text-align: end;
+        position: absolute;
+        bottom: 0;
+        right: 10px;
+        color: black;
+      }
+      
+      .main {
+        fill: white;
+      }
+      .data {
+        opacity: 0.75;
+        text-align: start;
+        position: absolute;
+        bottom: 0;
+        padding-bottom: 5px;
+        left: 10px;
+        color: black;
+        max-width: 400px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+      }
+      .author {
+        opacity: 0.75;
+        font-size: 0.5em;
+      }
+      .category {
+        background-color: rgba(0, 0, 0, 0.25);
+        border-radius: 0.25em;
+        padding: 0.125em 0.25em;
+        font-size: 0.75em;
+        color: rgba(0, 0, 0, 0.8);
+      }
+    </style>
+  </defs>
+  <g class="main">
+    <rect class="content" width="600" height="100" stroke="rgba(0, 0, 0, 0.5)" x="5" y="5" rx="10" />
+    <foreignObject width="600" height="100" x="5" y="5">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
+        <div class="text">
+          <div class="title">Deploy&#0032;and&#0032;destroy&#0032;Copilot&#0032;for&#0032;Security&#0032;with&#0032;Bicep&#0032;and&#0032;GitHub&#0032;Actions</div>
+          <div class="description">Introduction&#0032;and&#0032;pricing&#0010;&#0032;Important&#0010;Proof&#0032;of&#0032;Concept&#0033;&#0010;1st&#0032;of&#0032;April&#0032;and&#0032;Copilot&#0032;for&#0032;Security&#0032;is&#0032;now&#0032;in&#0032;General&#0032;Availability&#0032;&#0040;GA&#0041;&#0046;&#0032;The&#0032;cost&#0032;for&#0032;the&#0032;service&#0032;is&#0032;no&#0032;April&#0032;fool&#0032;joke&#0046;&#0010;SKU&#0010;&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;Price&#0032;per&#0032;hour&#0010;&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;Estimated&#0032;price&#0032;per&#0032;month&#0010;&#0032;&#0032;&#0032;&#0032;&#0010;Provisioned&#0010;&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;&#0036;4&#0010;&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;&#0036;2&#0044;920&#0010;&#0032;&#0032;&#0032;&#0032;&#0010;One&#0032;month&#0032;&#0061;&#0032;730&#0032;hours&#0010;Provision&#0032;capacity&#0032;in&#0032;Security&#0032;Compute&#0032;Units&#0032;&#0040;SCU&#0041;&#0032;to&#0032;run&#0032;Copilot&#0032;for&#0032;Security&#0032;workloads&#0046;&#0032;These&#0032;workloads&#0032;provide&#0032;insights&#0044;&#0032;evaluate&#0032;prompts&#0044;&#0032;run&#0032;promptbooks&#0032;and&#0032;automate&#0032;them&#0032;in&#0032;both&#0032;the&#0032;standalone&#0032;product&#0032;and&#0032;embedded&#0032;experiences&#0032;across&#0032;Microsoft&#0032;Security&#0046;&#0010;Pricing&#0032;page&#0032;&#0045;&#0032;https&#0058;&#0047;&#0047;azure&#0046;microsoft&#0046;com&#0047;en&#0045;gb&#0047;pricing&#0047;details&#0047;microsoft&#0045;copilot&#0045;for&#0045;security&#0047;&#0010;Coding&#0032;time&#0010;Let’s&#0032;see&#0032;what&#0032;we&#0032;can&#0032;do&#0032;with&#0032;code&#0033;&#0010;Take&#0032;a&#0032;look&#0032;at&#0032;my&#0032;new&#0032;repo&#0032;in&#0032;GitHub&#0032;&#0045;&#0032;&#0091;pthoor&#0010;&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;Copilot&#0032;for&#0032;Security&#0093;&#0040;https&#0058;&#0047;&#0047;github&#0046;com&#0047;pthoor&#0047;Copilot&#0045;for&#0045;Security&#0041;&#0010;&#0032;&#0032;&#0032;&#0032;&#0010;I’ve&#0032;written&#0032;to&#0032;very&#0032;simple&#0032;bicep&#0032;files&#0032;for&#0032;deployment&#0032;of&#0032;Copilot&#0032;for&#0032;Security&#0046;&#0010;&#0032;Tip&#0010;Deploy&#0032;Copilot&#0032;for&#0032;Security&#0032;with&#0032;Bicep&#0010;main&#0046;bicep&#0010;&#0010;targetScope&#0032;&#0061;&#0032;&#0039;resourceGroup&#0039;&#0010;&#0010;&#0064;minLength&#0040;3&#0041;&#0010;&#0064;maxLength&#0040;63&#0041;&#0010;param&#0032;capacityName&#0032;string&#0010;&#0010;var&#0032;uniqueStringNoHyphens&#0032;&#0061;&#0032;replace&#0040;uniqueString&#0040;resourceGroup&#0040;&#0041;&#0046;id&#0041;&#0044;&#0032;&#0039;&#0045;&#0039;&#0044;&#0032;&#0039;&#0039;&#0041;&#0010;var&#0032;uniqueCapacityName&#0032;&#0061;&#0032;&#0039;&#0036;&#0123;toLower&#0040;capacityName&#0041;&#0125;&#0036;&#0123;uniqueStringNoHyphens&#0125;&#0039;&#0010;&#0010;&#0064;allowed&#0040;&#0091;&#0010;&#0032;&#0032;&#0032;&#0032;&#0039;EU&#0039;&#0010;&#0032;&#0032;&#0032;&#0032;&#0039;ANZ&#0039;&#0010;&#0032;&#0032;&#0032;&#0032;&#0039;US&#0039;&#0010;&#0032;&#0032;&#0032;&#0032;&#0039;UK&#0039;&#0010;&#0093;&#0041;&#0010;param&#0032;geo&#0032;string&#0010;&#0010;var&#0032;locationMap&#0032;&#0061;&#0032;&#0123;&#0010;&#0032;&#0032;EU&#0058;&#0032;&#0039;westeurope&#0039;&#0010;&#0032;&#0032;ANZ&#0058;&#0032;&#0039;australiaeast&#0039;&#0010;&#0032;&#0032;US&#0058;&#0032;&#0039;eastus&#0039;&#0010;&#0032;&#0032;UK&#0058;&#0032;&#0039;uksouth&#0039;&#0010;&#0125;&#0010;&#0010;var&#0032;location&#0032;&#0061;&#0032;contains&#0040;locationMap&#0044;&#0032;geo&#0041;&#0032;&#0063;&#0032;locationMap&#0091;geo&#0093;&#0032;&#0058;&#0032;&#0039;defaultlocation&#0039;&#0010;&#0010;param&#0032;numberOfUnits&#0032;int&#0010;&#0010;&#0064;allowed&#0040;&#0091;&#0010;&#0032;&#0032;&#0032;&#0032;&#0039;NotAllowed&#0039;&#0010;&#0032;&#0032;&#0032;&#0032;&#0039;Allowed&#0039;&#0010;&#0093;&#0041;&#0010;param&#0032;crossGeoCompute&#0032;string&#0010;&#0010;resource&#0032;Copilot&#0032;&#0039;Microsoft&#0046;SecurityCopilot&#0047;capacities&#0064;2023&#0045;12&#0045;01&#0045;preview&#0039;&#0032;&#0061;&#0032;&#0123;&#0010;&#0032;&#0032;&#0032;&#0032;name&#0058;&#0032;uniqueCapacityName&#0010;&#0032;&#0032;&#0032;&#0032;location&#0058;&#0032;location&#0010;&#0032;&#0032;&#0032;&#0032;properties&#0058;&#0032;&#0123;&#0010;&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;numberOfUnits&#0058;&#0032;numberOfUnits&#0010;&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;crossGeoCompute&#0058;&#0032;crossGeoCompute&#0010;&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;geo&#0058;&#0032;geo&#0010;&#0032;&#0032;&#0032;&#0032;&#0125;&#0010;&#0125;&#0010;&#0010;&#0010;main&#0046;bicepparam&#0010;&#0010;using&#0032;&#0039;main&#0046;bicep&#0039;&#0010;&#0010;param&#0032;capacityName&#0032;&#0061;&#0032;&#0039;thoorcopilot&#0039;&#0010;param&#0032;geo&#0032;&#0061;&#0032;&#0039;EU&#0039;&#0010;param&#0032;numberOfUnits&#0032;&#0061;&#0032;1&#0010;param&#0032;crossGeoCompute&#0032;&#0061;&#0032;&#0039;NotAllowed&#0039;&#0010;&#0010;&#0010;Deployment&#0032;and&#0032;deletion&#0032;with&#0032;GitHub&#0032;Actions&#0010;Not&#0032;sure&#0032;this&#0032;part&#0032;will&#0032;work&#0032;as&#0032;expected&#0032;with&#0032;the&#0032;billing&#0032;or&#0032;the&#0032;need&#0032;to&#0032;configure&#0032;everything&#0032;from&#0032;the&#0032;ground&#0032;up&#0032;when&#0032;it&#0032;comes&#0032;to&#0032;Copilot&#0032;for&#0032;Security&#0046;&#0032;But&#0032;here&#0032;you&#0032;go…&#0010;In&#0032;GitHub&#0032;Actions&#0032;I&#0032;created&#0032;two&#0032;supersimple&#0044;&#0032;yet&#0032;effective&#0044;&#0032;yml&#0032;files&#0032;&#0045;&#0032;one&#0032;for&#0032;deployment&#0032;and&#0032;one&#0032;for&#0032;destroyiong&#0032;and&#0032;deleting&#0032;the&#0032;resources&#0046;&#0010;The&#0032;GitHub&#0032;Actions&#0032;workflow&#0032;runs&#0032;on&#0032;either&#0032;manual&#0032;trigger&#0032;or&#0032;it&#0032;will&#0032;deploy&#0032;Copilot&#0032;for&#0032;Security&#0032;at&#0032;08&#0058;00&#0032;AM&#0032;Monday&#0032;to&#0032;Friday&#0046;&#0010;The&#0032;destroy&#0032;workflow&#0032;will&#0032;delete&#0032;the&#0032;resourcegroup&#0032;at&#0032;5&#0032;PM&#0032;Monday&#0032;to&#0032;Friday&#0046;&#0010;Fun&#0032;to&#0032;try&#0032;out&#0032;so&#0032;why&#0032;not&#0046;&#0010;Deploy&#0010;deploy&#0046;yml&#0010;&#0010;name&#0058;&#0032;Deploy&#0032;Resources&#0010;&#0010;on&#0058;&#0010;&#0032;&#0032;workflow&#0095;dispatch&#0058;&#0032;&#0035;&#0032;Allows&#0032;you&#0032;to&#0032;run&#0032;the&#0032;workflow&#0032;manually&#0010;&#0032;&#0032;schedule&#0058;&#0010;&#0032;&#0032;&#0032;&#0032;&#0045;&#0032;cron&#0058;&#0032;&#0039;0&#0032;8&#0032;&#0042;&#0032;&#0042;&#0032;1&#0045;5&#0039;&#0032;&#0035;&#0032;Runs&#0032;at&#0032;8&#0032;AM&#0032;UTC&#0044;&#0032;Monday&#0032;to&#0032;Friday&#0010;&#0010;jobs&#0058;&#0010;&#0032;&#0032;deploy&#0058;&#0010;&#0032;&#0032;&#0032;&#0032;runs&#0045;on&#0058;&#0032;ubuntu&#0045;latest&#0010;&#0032;&#0032;&#0032;&#0032;steps&#0058;&#0010;&#0032;&#0032;&#0032;&#0032;&#0045;&#0032;name&#0058;&#0032;Checkout&#0032;code&#0010;&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;uses&#0058;&#0032;actions&#0047;checkout&#0064;v2&#0010;&#0010;&#0032;&#0032;&#0032;&#0032;&#0045;&#0032;name&#0058;&#0032;Login&#0032;to&#0032;Azure&#0010;&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;uses&#0058;&#0032;azure&#0047;login&#0064;v1&#0010;&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;with&#0058;&#0010;&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;creds&#0058;&#0032;&#0036;&#0010;&#0010;&#0032;&#0032;&#0032;&#0032;&#0045;&#0032;name&#0058;&#0032;Deploy&#0032;Bicep&#0032;template&#0010;&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;run&#0058;&#0032;&#0124;&#0010;&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;az&#0032;deployment&#0032;group&#0032;create&#0032;&#0045;&#0045;name&#0032;CopilotDeployment&#0032;&#0045;&#0045;resource&#0045;group&#0032;CopilotTest&#0032;&#0045;&#0045;template&#0045;file&#0032;&#0046;&#0047;main&#0046;bicep&#0032;&#0045;&#0045;parameters&#0032;&#0046;&#0047;main&#0046;bicepparam&#0010;&#0010;&#0010;Destroy&#0010;destroy&#0046;yml&#0010;&#0010;name&#0058;&#0032;Destroy&#0032;Resources&#0010;&#0010;on&#0058;&#0010;&#0032;&#0032;workflow&#0095;dispatch&#0058;&#0032;&#0035;&#0032;Allows&#0032;you&#0032;to&#0032;run&#0032;the&#0032;workflow&#0032;manually&#0010;&#0032;&#0032;schedule&#0058;&#0010;&#0032;&#0032;&#0032;&#0032;&#0045;&#0032;cron&#0058;&#0032;&#0039;0&#0032;17&#0032;&#0042;&#0032;&#0042;&#0032;1&#0045;5&#0039;&#0032;&#0035;&#0032;Runs&#0032;at&#0032;5&#0032;PM&#0032;UTC&#0044;&#0032;Monday&#0032;to&#0032;Friday&#0010;&#0010;jobs&#0058;&#0010;&#0032;&#0032;destroy&#0058;&#0010;&#0032;&#0032;&#0032;&#0032;runs&#0045;on&#0058;&#0032;ubuntu&#0045;latest&#0010;&#0032;&#0032;&#0032;&#0032;steps&#0058;&#0010;&#0032;&#0032;&#0032;&#0032;&#0045;&#0032;name&#0058;&#0032;Checkout&#0032;code&#0010;&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;uses&#0058;&#0032;actions&#0047;checkout&#0064;v2&#0010;&#0010;&#0032;&#0032;&#0032;&#0032;&#0045;&#0032;name&#0058;&#0032;Login&#0032;to&#0032;Azure&#0010;&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;uses&#0058;&#0032;azure&#0047;login&#0064;v1&#0010;&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;with&#0058;&#0010;&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;creds&#0058;&#0032;&#0036;&#0010;&#0010;&#0032;&#0032;&#0032;&#0032;&#0045;&#0032;name&#0058;&#0032;Destroy&#0032;Resource&#0032;Group&#0010;&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;run&#0058;&#0032;&#0124;&#0010;&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;&#0032;az&#0032;group&#0032;delete&#0032;&#0045;&#0045;name&#0032;CopilotTest&#0032;&#0045;&#0045;yes&#0032;&#0045;&#0045;no&#0045;wait&#0010;&#0010;&#0010;Summary&#0010;&#0010;If&#0032;you&#0032;want&#0032;to&#0032;follow&#0032;along&#0032;with&#0032;the&#0032;setup&#0032;and&#0032;configuration&#0044;&#0032;visit&#0032;the&#0032;GitHub&#0032;repo&#0032;&#0045;&#0032;https&#0058;&#0047;&#0047;github&#0046;com&#0047;pthoor&#0047;Copilot&#0045;for&#0045;Security</div>
+          <div class="date">4&#0047;1&#0047;24</div>
+          <div class="data">
+            <span class="author"></span> 
+          </div>
+        </div>
+      </div>
+    </foreignObject>
+  </g>
+</svg>
