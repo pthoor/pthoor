@@ -1,8 +1,34 @@
-# Hi there 👋
+# Hi, I'm Pierre 👋 👨‍💻
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpthoor%2Fpthoor&labelColor=%232ccce4&countColor=%23555555)
+
+🔭 Tech Enthusiast | 🕵️ Cybersecurity Pro | 🏆 Microsoft MVP
+
+I'm currently diving deep into the world of KQL, Azure Arc, Defender for Cloud, Sentinel, and Microsoft Defender at Onevinn AB in Sweden, a proud member of the Microsoft Intelligent Security Association and the Security Partner of the Year 2022. My days are filled with innovating and implementing robust cybersecurity solutions within the Microsoft portfolio.
+
+🌱 **Expanding Horizons:** I'm on a continuous journey to enhance my expertise in cybersecurity, always learning more about the latest in digital defense.
+
+👯 **Collaborations Welcome:** I’m open to collaborating on innovative ideas that make a difference. Got a project in mind? Let's connect and create something great!
+
+💬 **Let's Chat:** Feel free to ask me about anything from cloud solutions to the best fishing spots. I’m here to share knowledge and exchange ideas.
+
+📫 **Reach Out:** Want to discuss technology, cybersecurity, or just say hello? Reach out on LinkedIn.
+
+⚡ **Just for Fun:** I have a penchant for ice cream and fly fishing 🎣, and you'll rarely find me enjoying warm weather 😂.
+
+## What I Do
+**Cybersecurity Consulting:** Guiding customers through digital transformation leveraging Microsoft 365 and Azure, aiming to maximize their use of Microsoft cloud services.
+
+**Speaking Engagements:** From discussing Azure Arc at the Stockholm Tech Show to diving into cost optimization at WVD Tech Fest, I enjoy sharing knowledge at various speaker events.
+
+**Podcasting:** Tune into the Security Dojo Podcast where we explore complex cybersecurity issues, provide practical tips, and keep you updated with the latest in digital security.
+
+**Blogger:** See my blogposts down below.
+
+## 🏆 Accolades
+Microsoft Most Valuable Professional (MVP) for Azure in 2022, transitioning to the Microsoft Security MVP category, reflecting my focus and dedication in the cybersecurity arena.
 
 ```kusto
 Pierre Thoor
@@ -18,7 +44,7 @@ Blog: 'https://thoor.tech'
 
 ![MVP_Badge_Preferred_Blue3005_RGB](https://user-images.githubusercontent.com/34333810/197189980-e067690f-fc0c-4f2c-b7c6-425bcf53b37d.png)
 
-# 😎 About me 
+## 😎 Quick facts about me 
 
 - 🔭 I’m currently working on KQL, Azure Arc, Defender for Cloud, Sentinel, and getting CySA+ certification
 - 🌱 I’m currently learning even more about cybersecurity
@@ -27,13 +53,11 @@ Blog: 'https://thoor.tech'
 - 📫 How to reach me: See below!
 - ⚡ Fun fact: Love ice cream and hate warm weather 😂
 
-# ✍️ Blog and writing
+## ✍️ Blog and writing
 <!-- blog-post-list:start -->
-## Thoor.tech
+### Thoor.tech
 
-
-
-[Read more](/)
+[Read more](https://thoor.tech)
 > Last updated: Saturday, April 6, 2024 at 12:19:22 AM
 
 > Showing 5 of 10 posts.
@@ -47,7 +71,7 @@ Blog: 'https://thoor.tech'
 
 <!-- blog-post-list:end -->
 
-# 📈 GitHub Stats
+## 📈 GitHub Stats
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=pthoor&show_icons=true&theme=dark"
