@@ -55,10 +55,12 @@ Blog: 'https://thoor.tech'
 
 ## ✍️ Blog and writing
 <!-- blog-post-list:start -->
-### Thoor.tech
+## Thoor.tech
 
-[Read more](https://thoor.tech)
-> Last updated: Saturday, April 6, 2024 at 12:19:22 AM
+
+
+[Read more](/)
+> Last updated: Saturday, April 13, 2024 at 12:17:38 AM
 
 > Showing 5 of 10 posts.
 
