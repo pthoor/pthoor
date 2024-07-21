@@ -91,6 +91,7 @@ Blog: 'https://thoor.tech'
 # 🎓 Certificates & Trainings [@Credly](https://www.credly.com/users/pierre-thoor/badges?sort=-state_updated_at&page=1)
 <!--START_SECTION:badges-->
 
+[![2024 Microsoft Most Valuable Professional (MVP)](https://images.credly.com/size/110x110/images/9e9359a4-fe7e-4e02-8eb0-6c2b7947345a/image.png)](http://www.credly.com/badges/9b10d702-679c-425b-9faf-98658c50db0c "2024 Microsoft Most Valuable Professional (MVP)")
 [![GitHub Actions](https://images.credly.com/size/110x110/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png)](http://www.credly.com/badges/09aa6592-fa75-4070-a484-3fb73c84561a "GitHub Actions")
 [![Microsoft Security Immersion Completion Badge](https://images.credly.com/size/110x110/images/693308cf-f47f-41c0-8e71-0f28e4bc6a52/image.png)](http://www.credly.com/badges/7235876c-a64e-4857-90e6-842c0ec02e53 "Microsoft Security Immersion Completion Badge")
 [![New rank: Special Detective Agent](https://images.credly.com/size/110x110/images/b096f449-fce1-42d7-be93-e6e1e32e171b/image.png)](http://www.credly.com/badges/871e2a10-01fc-4c8e-82d4-f7665d4b409e "New rank: Special Detective Agent")
@@ -138,7 +139,6 @@ Blog: 'https://thoor.tech'
 [![Microsoft Certified: Azure Virtual Desktop Specialty](https://images.credly.com/size/110x110/images/ea009208-e2d6-432e-bbf6-d34d28b0835f/azure-virtual-desktop-specialty-600x600.png)](http://www.credly.com/badges/b9823945-dc41-432b-ba8a-ca265c249cb1 "Microsoft Certified: Azure Virtual Desktop Specialty")
 [![Microsoft Certified Trainer 2021-2022](https://images.credly.com/size/110x110/images/a6ea4416-4f34-4a85-bc24-eb3fe32fd241/MCT-Microsoft_Certified_Trainer-600x600.png)](http://www.credly.com/badges/808934f5-ff9c-4eff-b792-2cb79b82f373 "Microsoft Certified Trainer 2021-2022")
 [![Microsoft Certified: Identity and Access Administrator Associate](https://images.credly.com/size/110x110/images/91295436-0704-4b98-8e1a-ef5f937bda21/identity-and-access-administrator-associate-600x600.png)](http://www.credly.com/badges/2e79b7db-8dee-4d08-ad5c-5d8d466faa8b "Microsoft Certified: Identity and Access Administrator Associate")
-[![Microsoft Certified: Security Operations Analyst Associate](https://images.credly.com/size/110x110/images/7e75516f-5149-4d19-8d09-aa3dab4907cb/security-operations-analyst-associate-600x600.png)](http://www.credly.com/badges/9eb73d01-3320-4113-a2fe-e444d8ff8071 "Microsoft Certified: Security Operations Analyst Associate")
 <!--END_SECTION:badges-->
 
 # 🔔 Follow me
