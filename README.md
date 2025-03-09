@@ -91,6 +91,7 @@ Blog: 'https://thoor.tech'
 # 🎓 Certificates & Trainings [@Credly](https://www.credly.com/users/pierre-thoor/badges?sort=-state_updated_at&page=1)
 <!--START_SECTION:badges-->
 
+[![Experts Live Denmark 2025 - Speaker](https://images.credly.com/size/110x110/images/8d25e84c-8208-4a61-b58b-432d044f2208/blob)](http://www.credly.com/badges/e193a254-8ed1-4a28-a29c-0a4ecfef7c31 "Experts Live Denmark 2025 - Speaker")
 [![2024 Microsoft Most Valuable Professional (MVP)](https://images.credly.com/size/110x110/images/9e9359a4-fe7e-4e02-8eb0-6c2b7947345a/image.png)](http://www.credly.com/badges/9b10d702-679c-425b-9faf-98658c50db0c "2024 Microsoft Most Valuable Professional (MVP)")
 [![GitHub Actions](https://images.credly.com/size/110x110/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png)](http://www.credly.com/badges/09aa6592-fa75-4070-a484-3fb73c84561a "GitHub Actions")
 [![Microsoft Security Immersion Completion Badge](https://images.credly.com/size/110x110/images/693308cf-f47f-41c0-8e71-0f28e4bc6a52/image.png)](http://www.credly.com/badges/7235876c-a64e-4857-90e6-842c0ec02e53 "Microsoft Security Immersion Completion Badge")
@@ -138,7 +139,6 @@ Blog: 'https://thoor.tech'
 [![Microsoft Certified: Azure AI Fundamentals](https://images.credly.com/size/110x110/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png)](http://www.credly.com/badges/52e2944f-b6eb-4560-918a-6806aeff3b79 "Microsoft Certified: Azure AI Fundamentals")
 [![Microsoft Certified: Azure Virtual Desktop Specialty](https://images.credly.com/size/110x110/images/ea009208-e2d6-432e-bbf6-d34d28b0835f/azure-virtual-desktop-specialty-600x600.png)](http://www.credly.com/badges/b9823945-dc41-432b-ba8a-ca265c249cb1 "Microsoft Certified: Azure Virtual Desktop Specialty")
 [![Microsoft Certified Trainer 2021-2022](https://images.credly.com/size/110x110/images/a6ea4416-4f34-4a85-bc24-eb3fe32fd241/MCT-Microsoft_Certified_Trainer-600x600.png)](http://www.credly.com/badges/808934f5-ff9c-4eff-b792-2cb79b82f373 "Microsoft Certified Trainer 2021-2022")
-[![Microsoft Certified: Identity and Access Administrator Associate](https://images.credly.com/size/110x110/images/91295436-0704-4b98-8e1a-ef5f937bda21/identity-and-access-administrator-associate-600x600.png)](http://www.credly.com/badges/2e79b7db-8dee-4d08-ad5c-5d8d466faa8b "Microsoft Certified: Identity and Access Administrator Associate")
 <!--END_SECTION:badges-->
 
 # 🔔 Follow me
