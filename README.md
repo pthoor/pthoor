@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&width=700&lines=Defender+XDR+%7C+Sentinel+%7C+Azure+Security+Architecture;Detection+Engineering+%7C+Threat+Hunting+%7C+GitHub+Supply+Chain+Security;Building+security+programs+that+scale+across+700%2B+Azure+subscriptions" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&width=700&lines=Defender+XDR+%7C+Sentinel+%7C+Azure+Security+Architecture;Detection+Engineering+%7C+Threat+Hunting+%7C+GitHub+Supply+Chain+Security;Building+security+programs+that+scale+across+complex+Azure+environments" alt="Typing intro" />
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 ## ⚡ Why this profile
 
-I design and run cloud security at enterprise scale in a multi-region Azure hub-and-spoke environment (700+ subscriptions). My focus is practical security outcomes: stronger detections, lower noise, resilient architecture, and measurable risk reduction.
+I design and run cloud security at enterprise scale in a multi-region Azure hub-and-spoke environment. My focus is practical security outcomes: stronger detections, lower noise, resilient architecture, and measurable risk reduction.
 
 - **Role:** Senior Cloud Security Architect at [Onevinn AB](https://www.onevinn.com), Sweden  
 - **Recognition:** Microsoft Security MVP · MDO Champion  
@@ -29,7 +29,7 @@ I design and run cloud security at enterprise scale in a multi-region Azure hub-
 
 ---
 
-## 🎯 Signature focus
+## 🎯 Expertise
 
 | Area | What I deliver |
 |---|---|
@@ -41,12 +41,18 @@ I design and run cloud security at enterprise scale in a multi-region Azure hub-
 
 ---
 
+## 🛠️ Tech Stack
+
+`Microsoft Defender XDR` · `Microsoft Sentinel` · `KQL` · `Azure Policy` · `Azure Firewall` · `Microsoft Defender for Cloud` · `GitHub Enterprise` · `GitHub Advanced Security` · `PowerShell` · `Bicep`
+
+---
+
 ## 🧩 High-impact projects
 
 | Project | Value |
 |---|---|
 | [**Fylgyr**](https://github.com/pthoor/Fylgyr) | PowerShell toolkit for GitHub supply-chain security audits, including campaign-driven checks (e.g., Miasma). |
-| [**MAST**](https://github.com/pthoor/MAST) | Opinionated Microsoft 365 security assessor for Defender for Office 365, EOP, and Teams controls. |
+| [**MET**](https://github.com/pthoor/MET) | Opinionated Microsoft 365 security assessor for Defender for Office 365, EOP, and Teams controls. |
 | [**DMARC Analyzer Azure**](https://github.com/pthoor/DMARC-Analyzer-Azure) | Managed DMARC monitoring pipeline on Azure with Log Analytics + Workbook insights. |
 
 ---
