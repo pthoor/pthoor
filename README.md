@@ -47,6 +47,23 @@ I design and run cloud security at enterprise scale in a multi-region Azure hub-
 
 ---
 
+## 📊 KQL Intro
+
+```kql
+Pierre Thoor
+| where Title == 'Senior Cloud Security Architect'
+  and Status == 'Microsoft Security MVP | MDO Champion'
+| project
+    Company = 'Onevinn AB',
+    Country = 'Sweden',
+    Focus = 'Defender XDR · Sentinel · Threat hunting · Azure security architecture · GitHub supply chain',
+    OpenSource = dynamic(['Fylgyr', 'MET', 'DMARC Analyzer Azure']),
+    Blog = 'https://thoor.tech',
+    Speaks = dynamic(['Experts Live', 'NIC'])
+```
+
+---
+
 ## 🧩 High-impact projects
 
 | Project | Value |
