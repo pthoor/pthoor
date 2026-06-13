@@ -1,95 +1,55 @@
-# Pierre Thoor 🕵️
+<h1 align="center">Pierre Thoor 🕵️</h1>
+<p align="center"><strong>Senior Cloud Security Architect · Microsoft Security MVP · MDO Champion</strong></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Senior+Cloud+Security+Architect;Microsoft+Security+MVP+%7C+MDO+Champion;Detection+%7C+Sentinel+%7C+Azure+%7C+GitHub+Security)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://thoor.tech">Blog</a> ·
+  <a href="https://sessionize.com/pierre-thoor">Talks</a> ·
+  <a href="https://github.com/pthoor/Fylgyr">Fylgyr</a> ·
+  <a href="https://www.linkedin.com/in/pierrethoor/">LinkedIn</a>
+</p>
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpthoor%2Fpthoor&labelColor=%232ccce4&countColor=%23555555)](https://visitorbadge.io)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&width=700&lines=Defender+XDR+%7C+Sentinel+%7C+Azure+Security+Architecture;Detection+Engineering+%7C+Threat+Hunting+%7C+GitHub+Supply+Chain+Security;Building+security+programs+that+scale+across+700%2B+Azure+subscriptions" alt="Typing intro" />
+</p>
 
-**Senior Cloud Security Architect · [Onevinn AB](https://www.onevinn.com) · Sweden**
+<p align="center">
+  <a href="https://visitorbadge.io"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpthoor%2Fpthoor&labelColor=%232ccce4&countColor=%23555555" alt="Visitors" /></a>
+</p>
 
-I architect and operate security at enterprise scale — currently across a 700+ subscription, multi-region Azure hub-and-spoke environment. My work covers the full stack: Microsoft Defender XDR, Sentinel logging strategy, threat hunting and detection engineering, Azure security architecture, and GitHub supply chain defense.
+---
 
-Microsoft Security MVP and MDO Champion. Author of *[Microsoft Defender for Identity in Depth](https://www.packtpub.com/en-us/product/microsoft-defender-for-identity-in-depth-9781835089125)* (Packt, 2024). I build open-source security tooling, write at [thoor.tech](https://thoor.tech), and co-run the *From Commit to Compromise* purple team webinar series.
+## ⚡ Why this profile
 
-**Quick links:** [Blog](https://thoor.tech) · [Sessionize](https://sessionize.com/pierre-thoor) · [Fylgyr](https://github.com/pthoor/Fylgyr) · [LinkedIn](https://www.linkedin.com/in/pierrethoor/)
+I design and run cloud security at enterprise scale in a multi-region Azure hub-and-spoke environment (700+ subscriptions). My focus is practical security outcomes: stronger detections, lower noise, resilient architecture, and measurable risk reduction.
 
------
+- **Role:** Senior Cloud Security Architect at [Onevinn AB](https://www.onevinn.com), Sweden  
+- **Recognition:** Microsoft Security MVP · MDO Champion  
+- **Author:** *[Microsoft Defender for Identity in Depth](https://www.packtpub.com/en-us/product/microsoft-defender-for-identity-in-depth-9781835089125)* (Packt, 2024)  
+- **Community:** Co-runner of *From Commit to Compromise* purple-team webinar series
 
-## 🔍 Focus Areas
+---
 
-**🛡️ Microsoft Defender XDR & Email Security**  
-Designing and operating Defender XDR at enterprise scale across MDO, MDE, and Defender for Cloud. MDO Champion with deep focus on email threat defense — phishing, BEC, and domain spoofing — backed by the open-source DMARC Analyzer Azure project and hands-on DMARC/DKIM/SPF implementation at scale.
+## 🎯 Signature focus
 
-**📊 Microsoft Sentinel & Logging Strategy**  
-Architecting Sentinel deployments with the data strategy first: analytics tier vs. Sentinel Data Lake, DCR/DCT transformation filters, retention and regulatory alignment, and cost optimization at scale. Experienced in designing Azure-wide logging strategy across 700+ subscription environments — from log source fit guidance to compliance retention mapping.
-
-**🎯 Threat Hunting & Detection Engineering**  
-Writing KQL detection and hunting queries grounded in real attack behavior. Focused on converting threat intelligence, purple team findings, and named campaign indicators into durable, low-noise detections across endpoint, identity, network, and supply chain.
-
-**🟣 Purple Team / Adversary Simulation**  
-Running structured purple team exercises that connect attack chains to detections. Co-host of the *From Commit to Compromise* webinar series — covering end-to-end attack scenarios from Azure and GitHub misconfigurations to post-exploitation, with full runbooks, deployment scripts, and Sentinel detection coverage for each scenario.
-
-**🏗️ Azure Security Architecture**  
-Designing security into Azure landing zones at enterprise scale: hub-and-spoke topology, AVNM, Azure Firewall policy, Private Endpoints, NSG governance with Security Admin Rules, ExpressRoute boundary control, and Azure Policy enforcement. Embedded across a 700+ subscription multi-region production environment.
-
-**🔗 GitHub & Supply Chain Security**  
-Auditing and hardening GitHub Enterprise environments: GHAS posture, Actions supply chain risk, app and OAuth permission governance, and signed commits enforcement. Author of Fylgyr — a PowerShell module purpose-built for GitHub supply chain security auditing, covering named campaigns including Miasma.
-
------
-
-## 🔨 Open Source
-
-| Project | What it does |
+| Area | What I deliver |
 |---|---|
-| [**Fylgyr**](https://github.com/pthoor/Fylgyr) | PowerShell module for GitHub supply chain security auditing. Detects compromised Actions, suspicious app and OAuth configurations, and GHAS posture drift. Published on PSGallery. |
-| [**MAST**](https://github.com/pthoor/MAST) | M365 Assessor for Security & Teams. Opinionated posture assessment across Microsoft Defender for Office 365, Exchange Online Protection, and Teams security configurations. |
-| [**DMARC Analyzer Azure**](https://github.com/pthoor/DMARC-Analyzer-Azure) | Managed DMARC monitoring solution built on Azure. Ingests aggregate and forensic reports into Log Analytics and surfaces insights via Azure Workbook. |
+| **Microsoft Defender XDR** | Detection engineering and threat-led hardening across MDO, MDE, and identity signals. |
+| **Microsoft Sentinel** | Data strategy, DCR/DCT filtering, retention design, and cost-aware analytics at scale. |
+| **Threat Hunting** | KQL hunts and analytics mapped to real campaigns and adversary tradecraft. |
+| **Azure Security Architecture** | Secure landing zones, network control planes, policy governance, and private connectivity. |
+| **GitHub Supply Chain Security** | GHAS posture reviews, Actions hardening, app/OAuth governance, and signed commit controls. |
 
------
+---
 
-## 📖 Book
+## 🧩 High-impact projects
 
-**[Microsoft Defender for Identity in Depth](https://www.packtpub.com/en-us/product/microsoft-defender-for-identity-in-depth-9781835089125)**  
-Packt Publishing · 2024
+| Project | Value |
+|---|---|
+| [**Fylgyr**](https://github.com/pthoor/Fylgyr) | PowerShell toolkit for GitHub supply-chain security audits, including campaign-driven checks (e.g., Miasma). |
+| [**MAST**](https://github.com/pthoor/MAST) | Opinionated Microsoft 365 security assessor for Defender for Office 365, EOP, and Teams controls. |
+| [**DMARC Analyzer Azure**](https://github.com/pthoor/DMARC-Analyzer-Azure) | Managed DMARC monitoring pipeline on Azure with Log Analytics + Workbook insights. |
 
-A practical guide to deploying, configuring, and operating Microsoft Defender for Identity across complex on-premises and hybrid Active Directory environments — from initial sensor deployment to advanced detection tuning.
-
------
-
-## ✍️ Writing & Research
-
-**Blog — [thoor.tech](https://thoor.tech)**  
-I write about what I encounter in production: Azure security architecture, Microsoft Sentinel cost and logging strategy, Microsoft Defender XDR, GitHub supply chain security, KQL detection patterns, and Bicep-driven security automation.
-
-**KQL Hunting Queries — [MS_Sentinel](https://github.com/pthoor/MS_Sentinel) · [Sentinel-Queries](https://github.com/pthoor/Sentinel-Queries)**  
-Detection and hunting queries for Microsoft Sentinel covering identity, network, endpoint, and supply chain threat scenarios.
-
------
-
-## 🎤 Speaking
-
-I present on Azure security architecture, detection engineering, Microsoft Defender XDR, and GitHub supply chain security at community events and conferences.
-
-Recent and upcoming: **Experts Live**, **NIC** → [Full session list on Sessionize](https://sessionize.com/pierre-thoor)
-
------
-
-## 📊 Stack
-
-```kql
-Pierre Thoor
-| where Title == 'Senior Cloud Security Architect'
-  and Status == 'Microsoft Security MVP | MDO Champion'
-| project
-    Company = 'Onevinn AB',
-    Country = 'Sweden',
-    Book = 'Microsoft Defender for Identity in Depth (Packt 2024)',
-    OpenSource = dynamic(['Fylgyr', 'MAST', 'DMARC Analyzer Azure']),
-    Focus = 'XDR · Sentinel · Logging strategy · Threat hunting · Azure · GitHub supply chain',
-    Blog = 'https://thoor.tech',
-    Speaks = dynamic(['Experts Live', 'NIC'])
-```
-
------
+---
 
 ## 🗒️ Latest from thoor.tech
 <!-- blog-post-list:start -->
@@ -108,15 +68,30 @@ Pierre Thoor
 [![Windows Server 2012/2012 R2 - End of support, what to do with Security Updates?](https://raw.githubusercontent.com/pthoor/pthoor/main/blog-posts/Thoor.tech/Windows_Server_2012_2012_R2_-_End_of_support__what_to_do_with_Security_Updates_.svg)](https://github.com/pthoor/pthoor/blob/main/Windows-Server-2012-ESU)
 <!-- blog-post-list:end -->
 
------
+---
 
-## 📈 GitHub Stats
+## 📘 Book
+
+**[Microsoft Defender for Identity in Depth](https://www.packtpub.com/en-us/product/microsoft-defender-for-identity-in-depth-9781835089125)**  
+A practical guide for deploying, tuning, and operating Defender for Identity in complex hybrid AD environments.
+
+---
+
+## 🎤 Speaking
+
+I speak at community events and conferences about Defender XDR, Sentinel architecture, threat hunting, and GitHub supply-chain security.
+
+Recent and upcoming: **Experts Live**, **NIC** → [Sessionize](https://sessionize.com/pierre-thoor)
+
+---
+
+## 📈 GitHub stats
 
 ![](https://github-readme-stats.vercel.app/api?username=pthoor&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pthoor&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/pthoor/github-readme-stats)
 
------
+---
 
 ## 🎓 Certifications & Badges [@Credly](https://www.credly.com/users/pierre-thoor/badges?sort=-state_updated_at&page=1)
 <details>
@@ -154,8 +129,12 @@ Pierre Thoor
 [View all badges on Credly](https://www.credly.com/users/pierre-thoor/badges?sort=-state_updated_at&page=1)
 </details>
 
------
+---
 
-## 🔔 Connect
+## 🤝 Connect
 
-[![MVP Badge](https://img.shields.io/badge/-Microsoft%20MVP-blue?style=flat-square&logo=Microsoft&logoColor=white)](https://mvp.microsoft.com/en-us/PublicProfile/5004683) [![Twitter Badge](https://img.shields.io/twitter/follow/PierreThoor?style=social)](https://twitter.com/PierreThoor) [![Linkedin Badge](https://img.shields.io/badge/-PierreThoor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pierrethoor/)](https://www.linkedin.com/in/pierrethoor/) [![GitHub followers](https://img.shields.io/github/followers/pthoor?label=Follow&style=social)](https://github.com/pthoor/?tab=follow) [![Bluesky](https://img.shields.io/badge/-pierrethoor.bsky.social-blue?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/pierrethoor.bsky.social)
+[![MVP Badge](https://img.shields.io/badge/-Microsoft%20MVP-blue?style=flat-square&logo=Microsoft&logoColor=white)](https://mvp.microsoft.com/en-us/PublicProfile/5004683)
+[![Twitter Badge](https://img.shields.io/twitter/follow/PierreThoor?style=social)](https://twitter.com/PierreThoor)
+[![Linkedin Badge](https://img.shields.io/badge/-PierreThoor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pierrethoor/)](https://www.linkedin.com/in/pierrethoor/)
+[![GitHub followers](https://img.shields.io/github/followers/pthoor?label=Follow&style=social)](https://github.com/pthoor/?tab=follow)
+[![Bluesky](https://img.shields.io/badge/-pierrethoor.bsky.social-blue?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/pierrethoor.bsky.social)
