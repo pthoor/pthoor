@@ -18,7 +18,7 @@
 
 ---
 
-## ⚡ Why this profile
+## ⚡ About Me
 
 I design and run cloud security at enterprise scale in a multi-region Azure hub-and-spoke environment. My focus is practical security outcomes: stronger detections, lower noise, resilient architecture, and measurable risk reduction.
 
@@ -47,7 +47,7 @@ I design and run cloud security at enterprise scale in a multi-region Azure hub-
 
 ---
 
-## 📊 KQL Intro
+## 📊 KQL Profile Snapshot
 
 ```kql
 Pierre Thoor
