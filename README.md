@@ -10,6 +10,8 @@ I architect and operate security at enterprise scale — currently across a 700+
 
 Microsoft Security MVP and MDO Champion. Author of *[Microsoft Defender for Identity in Depth](https://www.packtpub.com/en-us/product/microsoft-defender-for-identity-in-depth-9781835089125)* (Packt, 2024). I build open-source security tooling, write at [thoor.tech](https://thoor.tech), and co-run the *From Commit to Compromise* purple team webinar series.
 
+**Quick links:** [Blog](https://thoor.tech) · [Sessionize](https://sessionize.com/pierre-thoor) · [Fylgyr](https://github.com/pthoor/Fylgyr) · [LinkedIn](https://www.linkedin.com/in/pierrethoor/)
+
 -----
 
 ## 🔍 Focus Areas
@@ -93,7 +95,7 @@ Pierre Thoor
 <!-- blog-post-list:start -->
 ## Thoor.tech
 
-[Read more](https://github.com/pthoor/pthoor/blob/main)
+[Read more](https://thoor.tech)
 
 > Last updated: Saturday, May 3, 2025 at 12:28:36 AM
 >
@@ -117,6 +119,9 @@ Pierre Thoor
 -----
 
 ## 🎓 Certifications & Badges [@Credly](https://www.credly.com/users/pierre-thoor/badges?sort=-state_updated_at&page=1)
+<details>
+<summary>Show latest Credly badges</summary>
+
 <!--START_SECTION:badges-->
 [![Experts Live Denmark 2025 - Speaker](https://images.credly.com/size/110x110/images/8d25e84c-8208-4a61-b58b-432d044f2208/blob)](http://www.credly.com/badges/e193a254-8ed1-4a28-a29c-0a4ecfef7c31)
 [![2024 Microsoft Most Valuable Professional (MVP)](https://images.credly.com/size/110x110/images/9e9359a4-fe7e-4e02-8eb0-6c2b79473345a/image.png)](http://www.credly.com/badges/9b10d702-679c-425b-9faf-98658c50db0c)
@@ -145,6 +150,9 @@ Pierre Thoor
 [![L3 Microsoft Sentinel Influencer](https://images.credly.com/size/110x110/images/41b63430-ded3-4d19-994c-494e91821d3d/CREDLY_Microsoft_Cloud_Security_Digital_Badges_Sentinel_Influencer.png)](http://www.credly.com/badges/97ae9753-b447-47b1-9bb7-57efdda4a245)
 [![AZ-305: Designing Microsoft Azure Infrastructure Solutions](https://images.credly.com/size/110x110/images/9d7dc4c0-5681-41fc-b96b-26e9157786d7/image.png)](http://www.credly.com/badges/b88638fe-e44a-475e-96eb-5814aa271fd6)
 <!--END_SECTION:badges-->
+
+[View all badges on Credly](https://www.credly.com/users/pierre-thoor/badges?sort=-state_updated_at&page=1)
+</details>
 
 -----
 
