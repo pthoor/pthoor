@@ -68,10 +68,10 @@ I design and run cloud security at enterprise scale in a multi-region Azure hub-
 ### 🧰 Core Platforms
 
 <p>
-  <img src="https://cdn.simpleicons.org/microsoft/0078D4" alt="Microsoft" width="28" height="28" />
-  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" alt="Microsoft Azure" width="28" height="28" />
-  <img src="https://cdn.simpleicons.org/github/24292F" alt="GitHub" width="28" height="28" />
-  <img src="https://cdn.simpleicons.org/powershell/5391FE" alt="PowerShell" width="28" height="28" />
+  <img src="https://img.shields.io/badge/-Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft" />
+  <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
+  <img src="https://img.shields.io/badge/-GitHub-24292F?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
 </p>
 
 ---
