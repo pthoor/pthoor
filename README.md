@@ -43,7 +43,36 @@ I design and run cloud security at enterprise scale in a multi-region Azure hub-
 
 ## 🛠️ Tech Stack
 
-`Microsoft Defender XDR` · `Microsoft Sentinel` · `KQL` · `Azure Policy` · `Azure Firewall` · `Microsoft Defender for Cloud` · `GitHub Enterprise` · `GitHub Advanced Security` · `PowerShell` · `Bicep`
+**Detection**
+
+![Microsoft Defender XDR](https://img.shields.io/badge/Microsoft%20Defender%20XDR-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![KQL](https://img.shields.io/badge/KQL-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+
+**Cloud Security**
+
+![Microsoft Defender for Cloud](https://img.shields.io/badge/Defender%20for%20Cloud-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Azure Policy](https://img.shields.io/badge/Azure%20Policy-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure Firewall](https://img.shields.io/badge/Azure%20Firewall-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+**IaC & Automation**
+
+![PowerShell](https://img.shields.io/badge/PowerShell-0078D4?style=flat-square&logo=powershell&logoColor=white)
+![Bicep](https://img.shields.io/badge/Bicep-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+**GitHub Security**
+
+![GitHub Enterprise](https://img.shields.io/badge/GitHub%20Enterprise-24292F?style=flat-square&logo=github&logoColor=white)
+![GitHub Advanced Security](https://img.shields.io/badge/GitHub%20Advanced%20Security-24292F?style=flat-square&logo=github&logoColor=white)
+
+### 🧰 Core Platforms
+
+<p>
+  <img src="https://cdn.simpleicons.org/microsoft/0078D4" alt="Microsoft" width="28" height="28" />
+  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" alt="Microsoft Azure" width="28" height="28" />
+  <img src="https://cdn.simpleicons.org/github/24292F" alt="GitHub" width="28" height="28" />
+  <img src="https://cdn.simpleicons.org/powershell/5391FE" alt="PowerShell" width="28" height="28" />
+</p>
 
 ---
 
