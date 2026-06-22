@@ -140,11 +140,11 @@ Recent & upcoming: **Experts Live Denmark** (Copenhagen 2025 & 2026) · **NIC** 
 <summary>Show latest Credly badges</summary>
 
 <!--START_SECTION:badges-->
-[![Experts Live Denmark 2025 - Speaker](https://images.credly.com/size/110x110/images/8d25e84c-8208-4a61-b58b-432d044f2208/blob)](http://www.credly.com/badges/e193a254-8ed1-4a28-a29c-0a4ecfef7c31)
-[![2024 Microsoft Most Valuable Professional (MVP)](https://images.credly.com/size/110x110/images/9e9359a4-fe7e-4e02-8eb0-6c2b7947345a/image.png)](http://www.credly.com/badges/9b10d702-679c-425b-9faf-98658c50db0c)
-[![GitHub Actions](https://images.credly.com/size/110x110/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png)](http://www.credly.com/badges/09aa6592-fa75-4070-a484-3fb73c84561a)
-[![Microsoft Security Immersion Completion Badge](https://images.credly.com/size/110x110/images/693308cf-f47f-41c0-8e71-0f28e4bc6a52/image.png)](http://www.credly.com/badges/7235876c-a64e-4857-90e6-842c0ec02e53)
-[![New rank: Special Detective Agent](https://images.credly.com/size/110x110/images/b096f449-fce1-42d7-be93-e6e1e32e171b/image.png)](http://www.credly.com/badges/871e2a10-01fc-4c8e-82d4-f7665d4b409e)
+[![Experts Live Denmark 2025 - Speaker](https://images.credly.com/size/110x110/images/8d25e84c-8208-4a61-b58b-432d044f2208/blob)](https://www.credly.com/badges/e193a254-8ed1-4a28-a29c-0a4ecfef7c31)
+[![2024 Microsoft Most Valuable Professional (MVP)](https://images.credly.com/size/110x110/images/9e9359a4-fe7e-4e02-8eb0-6c2b7947345a/image.png)](https://www.credly.com/badges/9b10d702-679c-425b-9faf-98658c50db0c)
+[![GitHub Actions](https://images.credly.com/size/110x110/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png)](https://www.credly.com/badges/09aa6592-fa75-4070-a484-3fb73c84561a)
+[![Microsoft Security Immersion Completion Badge](https://images.credly.com/size/110x110/images/693308cf-f47f-41c0-8e71-0f28e4bc6a52/image.png)](https://www.credly.com/badges/7235876c-a64e-4857-90e6-842c0ec02e53)
+[![New rank: Special Detective Agent](https://images.credly.com/size/110x110/images/b096f449-fce1-42d7-be93-e6e1e32e171b/image.png)](https://www.credly.com/badges/871e2a10-01fc-4c8e-82d4-f7665d4b409e)
 [![New rank: Principal Detective](https://images.credly.com/size/110x110/images/8db7e105-c19e-4df8-87a4-ed1d5ccbc32b/image.png)](http://www.credly.com/badges/83e55150-1041-4d57-a375-9a8f240f0263)
 [![New Rank: Kusto Senior Detective II](https://images.credly.com/size/110x110/images/2fb50859-656e-4390-b4ca-88bc2b619867/image.png)](http://www.credly.com/badges/4c8dff8f-a40f-42f8-a932-e5067fee5937)
 [![2023 Microsoft Most Valuable Professional (MVP)](https://images.credly.com/size/110x110/images/5c687ffb-7ab6-4fd5-bf8c-14f0178acd21/image.png)](http://www.credly.com/badges/c3313322-21ff-417b-9190-fd3722c1fb96)
