@@ -101,10 +101,21 @@ datatable(Attribute: string, Value: string)
 ## 🗒️ Latest from thoor.tech
 
 <!-- blog-post-list:start -->
-- 🛰️ [**Azure Default Outbound Access Retirement: What It Actually Means (and What It Doesn't)**](https://thoor.tech/Azure-Default-Outbound-Access-Retirement/) — what the retirement means for your workloads and how to prepare.
-- 🛡️ [Configure Defender for Cloud workload protections with Azure Policy](https://thoor.tech/DefenderforCloud-Workload-Protection-With-Azure-Policy/)
-- 💸 [Demystifying Microsoft Defender for Cloud and Defender CSPM cost](https://thoor.tech/Demystifying-MDC-and-CSPM-cost/)
-- ⚙️ [Deploy and destroy Copilot for Security with Bicep and GitHub Actions](https://thoor.tech/Copilot-for-Security-deploy-and-destroy/)
+## thoor.tech
+
+
+
+[Read more](https://thoor.tech/)
+> Last updated: Monday, June 22, 2026 at 7:53:32 PM
+
+> Showing 5 of 10 posts.
+
+[![Azure Default Outbound Access Retirement: What It Actually Means (and What It Doesn't)](https://raw.githubusercontent.com/pthoor/pthoor/main/blog-posts/thoor.tech/Azure_Default_Outbound_Access_Retirement__What_It_Actually_Means_(and_What_It_Doesn't).svg)](https://thoor.tech/Azure-Default-Outbound-Access-Retirement/)
+[![Deploy and destroy Copilot for Security with Bicep and GitHub Actions](https://raw.githubusercontent.com/pthoor/pthoor/main/blog-posts/thoor.tech/Deploy_and_destroy_Copilot_for_Security_with_Bicep_and_GitHub_Actions.svg)](https://thoor.tech/Copilot-for-Security-deploy-and-destroy/)
+[![Configure Defender for Cloud workload protections with Azure Policy](https://raw.githubusercontent.com/pthoor/pthoor/main/blog-posts/thoor.tech/Configure_Defender_for_Cloud_workload_protections_with_Azure_Policy.svg)](https://thoor.tech/DefenderforCloud-Workload-Protection-With-Azure-Policy/)
+[![Demystifying Microsoft Defender for Cloud and Defender CSPM cost](https://raw.githubusercontent.com/pthoor/pthoor/main/blog-posts/thoor.tech/Demystifying_Microsoft_Defender_for_Cloud_and_Defender_CSPM_cost.svg)](https://thoor.tech/Demystifying-MDC-and-CSPM-cost/)
+[![New Patch Management tool in the cloud - Azure Update Manager (AUM) is now GA](https://raw.githubusercontent.com/pthoor/pthoor/main/blog-posts/thoor.tech/New_Patch_Management_tool_in_the_cloud_-_Azure_Update_Manager_(AUM)_is_now_GA.svg)](https://thoor.tech/Azure-Update-Manager-Costs/)
+
 
 <!-- blog-post-list:end -->
 
