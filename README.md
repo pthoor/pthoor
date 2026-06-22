@@ -106,8 +106,9 @@ datatable(Attribute: string, Value: string)
 - 💸 [Demystifying Microsoft Defender for Cloud and Defender CSPM cost](https://thoor.tech/Demystifying-MDC-and-CSPM-cost/)
 - ⚙️ [Deploy and destroy Copilot for Security with Bicep and GitHub Actions](https://thoor.tech/Copilot-for-Security-deploy-and-destroy/)
 
-Browse by topic: [Sentinel](https://thoor.tech/topics/sentinel/) · [Defender XDR](https://thoor.tech/topics/defender/) · [Azure Networking](https://thoor.tech/topics/networking/) · [GitHub Security](https://thoor.tech/topics/github/) · [IaC & Automation](https://thoor.tech/topics/iac/)
 <!-- blog-post-list:end -->
+
+Browse by topic: [Sentinel](https://thoor.tech/topics/sentinel/) · [Defender XDR](https://thoor.tech/topics/defender/) · [Azure Networking](https://thoor.tech/topics/networking/) · [GitHub Security](https://thoor.tech/topics/github/) · [IaC & Automation](https://thoor.tech/topics/iac/)
 
 ---
 
