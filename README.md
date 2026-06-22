@@ -128,7 +128,7 @@ Recent & upcoming: **Experts Live Denmark** (Copenhagen 2025 & 2026) · **NIC** 
 
 ## 📈 GitHub stats
 
-![](https://github-readme-stats.vercel.app/api?username=pthoor&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pthoor&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pthoor&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/pthoor/github-readme-stats)
 
