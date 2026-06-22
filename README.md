@@ -3,13 +3,14 @@
 
 <p align="center">
   <a href="https://thoor.tech">Blog</a> ·
+  <a href="https://thoor.tech/detections/">Detections</a> ·
   <a href="https://sessionize.com/pierre-thoor">Talks</a> ·
   <a href="https://github.com/pthoor/Fylgyr">Fylgyr</a> ·
   <a href="https://www.linkedin.com/in/pierrethoor/">LinkedIn</a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&width=700&lines=Defender+XDR+%7C+Sentinel+%7C+Azure+Security+Architecture;Detection+Engineering+%7C+Threat+Hunting+%7C+GitHub+Supply+Chain+Security;Building+security+programs+that+scale+across+complex+Azure+environments" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&width=720&lines=Defender+XDR+%7C+Sentinel+%7C+Azure+Security+Architecture;Detection+Engineering+%7C+Threat+Hunting+%7C+GitHub+Supply+Chain+Security;Attack+to+understand.+Understand+to+detect.+Detect+to+automate." alt="Typing intro" />
 </p>
 
 <p align="center">
@@ -20,12 +21,12 @@
 
 ## ⚡ About Me
 
-I design and run cloud security at enterprise scale in a multi-region Azure hub-and-spoke environment. My focus is practical security outcomes: stronger detections, lower noise, resilient architecture, and measurable risk reduction.
+I design and run cloud security at enterprise scale — across large, multi-region Azure hub-and-spoke environments. My focus is practical security outcomes: stronger detections, lower noise, resilient architecture, and measurable risk reduction.
 
-- **Role:** Senior Cloud Security Architect at [Onevinn AB](https://www.onevinn.com), Sweden  
-- **Recognition:** Microsoft Security MVP · MDO Champion  
-- **Author:** *[Microsoft Defender for Identity in Depth](https://www.packtpub.com/en-us/product/microsoft-defender-for-identity-in-depth-9781835089125)* (Packt, 2024)  
-- **Community:** Co-runner of *From Commit to Compromise* purple-team webinar series
+- **Role:** Senior Cloud Security Architect at [Onevinn AB](https://www.onevinn.com), Sweden
+- **Recognition:** Microsoft Security MVP · MDO Champion
+- **Author:** *[Microsoft Defender for Identity in Depth](https://www.packtpub.com/en-us/product/microsoft-defender-for-identity-in-depth-9781835082850)* (Packt, 2024)
+- **Community:** Co-authored a four-part guide to securing Microsoft Teams with the Microsoft Defender for Office 365 product team — published on [Microsoft Tech Community](https://techcommunity.microsoft.com/blog/microsoftdefenderforoffice365blog/safeguarding-microsoft-teams-with-microsoft-defender-for-office-365/4464086) with a companion [YouTube series](https://www.youtube.com/playlist?list=PLmAptfqzxVEUnmX3No1ZCCpU96Y9A-6PE)
 
 ---
 
@@ -34,61 +35,54 @@ I design and run cloud security at enterprise scale in a multi-region Azure hub-
 | Area | What I deliver |
 |---|---|
 | **Microsoft Defender XDR** | Detection engineering and threat-led hardening across MDO, MDE, and identity signals. |
-| **Microsoft Sentinel** | Data strategy, DCR/DCT filtering, retention design, and cost-aware analytics at scale. |
-| **Threat Hunting** | KQL hunts and analytics mapped to real campaigns and adversary tradecraft. |
-| **Azure Security Architecture** | Secure landing zones, network control planes, policy governance, and private connectivity. |
-| **GitHub Supply Chain Security** | GHAS posture reviews, Actions hardening, app/OAuth governance, and signed commit controls. |
+| **Microsoft Sentinel** | Data strategy, DCR/DCT filtering, table tiering, retention design, and cost-aware analytics at scale. |
+| **Detection Engineering** | KQL detections built from first principles and mapped to MITRE ATT&CK — see my [public detection library](https://thoor.tech/detections/). |
+| **Azure Security Architecture** | Secure landing zones, network control planes (AVNM, Firewall, Private Link), and policy-as-code governance. |
+| **GitHub Supply Chain Security** | GHAS posture reviews, Actions hardening, app/OAuth governance, and signed-commit controls. |
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Detection**
+**Detection & SecOps**
 
 ![Microsoft Defender XDR](https://img.shields.io/badge/Microsoft%20Defender%20XDR-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![KQL](https://img.shields.io/badge/KQL-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![KQL](https://img.shields.io/badge/KQL-512BD4?style=flat-square&logo=microsoft&logoColor=white)
+![Defender for Cloud](https://img.shields.io/badge/Defender%20for%20Cloud-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 
-**Cloud Security**
+**Azure Security & Network**
 
-![Microsoft Defender for Cloud](https://img.shields.io/badge/Defender%20for%20Cloud-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![Azure Policy](https://img.shields.io/badge/Azure%20Policy-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Azure Firewall](https://img.shields.io/badge/Azure%20Firewall-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AVNM](https://img.shields.io/badge/Azure%20Virtual%20Network%20Manager-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 **IaC & Automation**
 
-![PowerShell](https://img.shields.io/badge/PowerShell-0078D4?style=flat-square&logo=powershell&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Bicep](https://img.shields.io/badge/Bicep-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 **GitHub Security**
 
 ![GitHub Enterprise](https://img.shields.io/badge/GitHub%20Enterprise-24292F?style=flat-square&logo=github&logoColor=white)
 ![GitHub Advanced Security](https://img.shields.io/badge/GitHub%20Advanced%20Security-24292F?style=flat-square&logo=github&logoColor=white)
 
-### 🧰 Core Platforms
-
-<p>
-  <img src="https://img.shields.io/badge/-Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft" />
-  <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
-  <img src="https://img.shields.io/badge/-GitHub-24292F?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
-</p>
-
 ---
 
 ## 📊 KQL Profile Snapshot
 
 ```kql
-Pierre Thoor
-| where Title == 'Senior Cloud Security Architect'
-  and Status == 'Microsoft Security MVP | MDO Champion'
-| project
-    Company = 'Onevinn AB',
-    Country = 'Sweden',
-    Focus = 'Defender XDR · Sentinel · Threat hunting · Azure security architecture · GitHub supply chain',
-    OpenSource = dynamic(['Fylgyr', 'MET', 'DMARC Analyzer Azure']),
-    Blog = 'https://thoor.tech',
-    Speaks = dynamic(['Experts Live', 'NIC'])
+datatable(Attribute: string, Value: string)
+[
+    "Role",        "Senior Cloud Security Architect @ Onevinn AB",
+    "Status",      "Microsoft Security MVP · MDO Champion · Author",
+    "Location",    "Sweden",
+    "Focus",       "Defender XDR · Sentinel · Threat Hunting · Azure Security · GitHub Supply Chain",
+    "OpenSource",  "Fylgyr · MET · DMARC for Defender XDR",
+    "Philosophy",  "Attack to understand. Understand to detect. Detect to automate.",
+]
+| project Attribute, Value
 ```
 
 ---
@@ -97,35 +91,30 @@ Pierre Thoor
 
 | Project | Value |
 |---|---|
-| [**Fylgyr**](https://github.com/pthoor/Fylgyr) | PowerShell toolkit for GitHub supply-chain security audits, including campaign-driven checks (e.g., Miasma). |
-| [**MET**](https://github.com/pthoor/MET) | Opinionated Microsoft 365 security assessor for Defender for Office 365, EOP, and Teams controls. |
-| [**DMARC Analyzer Azure**](https://github.com/pthoor/DMARC-Analyzer-Azure) | Managed DMARC monitoring pipeline on Azure with Log Analytics + Workbook insights. |
+| [**Fylgyr**](https://github.com/pthoor/Fylgyr) | PowerShell toolkit for GitHub supply-chain security audits — commit-signing, GitHub App/OAuth security, and campaign-driven detections (e.g., the Miasma worm). |
+| [**MET**](https://github.com/pthoor/MET) | Opinionated Microsoft 365 security assessor for Defender for Office 365, EOP, and Teams controls, with a self-contained HTML report. |
+| [**DMARC for Defender XDR**](https://github.com/pthoor/DMARC-for-Defender-XDR) | Turns DMARC aggregate reports into SOC-ready telemetry for Defender XDR — Azure serverless ingestion plus hunting and custom detections for spoofing, policy abuse, and sender drift. |
+| [**Detection library**](https://thoor.tech/detections/) | Published KQL detections for Defender for Office 365 and Teams, mapped to MITRE ATT&CK. |
 
 ---
 
 ## 🗒️ Latest from thoor.tech
+
 <!-- blog-post-list:start -->
-## Thoor.tech
+- 🛰️ [**Azure Default Outbound Access Retirement: What It Actually Means (and What It Doesn't)**](https://thoor.tech/Azure-Default-Outbound-Access-Retirement/) — what the retirement means for your workloads and how to prepare.
+- 🛡️ [Configure Defender for Cloud workload protections with Azure Policy](https://thoor.tech/DefenderforCloud-Workload-Protection-With-Azure-Policy/)
+- 💸 [Demystifying Microsoft Defender for Cloud and Defender CSPM cost](https://thoor.tech/Demystifying-MDC-and-CSPM-cost/)
+- ⚙️ [Deploy and destroy Copilot for Security with Bicep and GitHub Actions](https://thoor.tech/Copilot-for-Security-deploy-and-destroy/)
 
-[Read more](https://thoor.tech)
-
-> Last updated: Saturday, May 3, 2025 at 12:28:36 AM
->
-> Showing 5 of 10 posts.
-
-[![Deploy and destroy Copilot for Security with Bicep and GitHub Actions](https://raw.githubusercontent.com/pthoor/pthoor/main/blog-posts/Thoor.tech/Deploy_and_destroy_Copilot_for_Security_with_Bicep_and_GitHub_Actions.svg)](https://github.com/pthoor/pthoor/blob/main/Copilot-for-Security-deploy-and-destroy)
-[![Configure Defender for Cloud workload protections with Azure Policy](https://raw.githubusercontent.com/pthoor/pthoor/main/blog-posts/Thoor.tech/Configure_Defender_for_Cloud_workload_protections_with_Azure_Policy.svg)](https://github.com/pthoor/pthoor/blob/main/DefenderforCloud-Workload-Protection-With-Azure-Policy)
-[![Demystifying Microsoft Defender for Cloud and Defender CSPM cost](https://raw.githubusercontent.com/pthoor/pthoor/main/blog-posts/Thoor.tech/Demystifying_Microsoft_Defender_for_Cloud_and_Defender_CSPM_cost.svg)](https://github.com/pthoor/pthoor/blob/main/Demystifying-MDC-and-CSPM-cost)
-[![New Patch Management tool in the cloud - Azure Update Manager (AUM) is now GA](https://raw.githubusercontent.com/pthoor/pthoor/main/blog-posts/Thoor.tech/New_Patch_Management_tool_in_the_cloud_-_Azure_Update_Manager_(AUM)_is_now_GA.svg)](https://github.com/pthoor/pthoor/blob/main/Azure-Update-Manager-Costs)
-[![Windows Server 2012/2012 R2 - End of support, what to do with Security Updates?](https://raw.githubusercontent.com/pthoor/pthoor/main/blog-posts/Thoor.tech/Windows_Server_2012_2012_R2_-_End_of_support__what_to_do_with_Security_Updates_.svg)](https://github.com/pthoor/pthoor/blob/main/Windows-Server-2012-ESU)
+Browse by topic: [Sentinel](https://thoor.tech/topics/sentinel/) · [Defender XDR](https://thoor.tech/topics/defender/) · [Azure Networking](https://thoor.tech/topics/networking/) · [GitHub Security](https://thoor.tech/topics/github/) · [IaC & Automation](https://thoor.tech/topics/iac/)
 <!-- blog-post-list:end -->
 
 ---
 
 ## 📘 Book
 
-**[Microsoft Defender for Identity in Depth](https://www.packtpub.com/en-us/product/microsoft-defender-for-identity-in-depth-9781835089125)**  
-A practical guide for deploying, tuning, and operating Defender for Identity in complex hybrid AD environments.
+**[Microsoft Defender for Identity in Depth](https://www.packtpub.com/en-us/product/microsoft-defender-for-identity-in-depth-9781835082850)** (Packt, 2024)
+An exhaustive guide to ITDR, breach prevention, and cyberattack response with Microsoft Defender for Identity in complex hybrid AD environments.
 
 ---
 
@@ -133,7 +122,7 @@ A practical guide for deploying, tuning, and operating Defender for Identity in 
 
 I speak at community events and conferences about Defender XDR, Sentinel architecture, threat hunting, and GitHub supply-chain security.
 
-Recent and upcoming: **Experts Live**, **NIC** → [Sessionize](https://sessionize.com/pierre-thoor)
+Recent & upcoming: **Experts Live Denmark** (Copenhagen 2025 & 2026) · **NIC** (Norway) · **Teamsdagen** → [full catalog on Sessionize](https://sessionize.com/pierre-thoor)
 
 ---
 
@@ -151,7 +140,7 @@ Recent and upcoming: **Experts Live**, **NIC** → [Sessionize](https://sessioni
 
 <!--START_SECTION:badges-->
 [![Experts Live Denmark 2025 - Speaker](https://images.credly.com/size/110x110/images/8d25e84c-8208-4a61-b58b-432d044f2208/blob)](http://www.credly.com/badges/e193a254-8ed1-4a28-a29c-0a4ecfef7c31)
-[![2024 Microsoft Most Valuable Professional (MVP)](https://images.credly.com/size/110x110/images/9e9359a4-fe7e-4e02-8eb0-6c2b79473345a/image.png)](http://www.credly.com/badges/9b10d702-679c-425b-9faf-98658c50db0c)
+[![2024 Microsoft Most Valuable Professional (MVP)](https://images.credly.com/size/110x110/images/9e9359a4-fe7e-4e02-8eb0-6c2b7947345a/image.png)](http://www.credly.com/badges/9b10d702-679c-425b-9faf-98658c50db0c)
 [![GitHub Actions](https://images.credly.com/size/110x110/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png)](http://www.credly.com/badges/09aa6592-fa75-4070-a484-3fb73c84561a)
 [![Microsoft Security Immersion Completion Badge](https://images.credly.com/size/110x110/images/693308cf-f47f-41c0-8e71-0f28e4bc6a52/image.png)](http://www.credly.com/badges/7235876c-a64e-4857-90e6-842c0ec02e53)
 [![New rank: Special Detective Agent](https://images.credly.com/size/110x110/images/b096f449-fce1-42d7-be93-e6e1e32e171b/image.png)](http://www.credly.com/badges/871e2a10-01fc-4c8e-82d4-f7665d4b409e)
@@ -172,7 +161,6 @@ Recent and upcoming: **Experts Live**, **NIC** → [Sessionize](https://sessioni
 [![SC-100: Microsoft Cybersecurity Architect](https://images.credly.com/size/110x110/images/c34a6df4-c7bd-461b-ac12-deab18ab6804/image.png)](http://www.credly.com/badges/0f483b27-8670-415f-9bed-a8edbbb88b47)
 [![Microsoft Certified: Cybersecurity Architect Expert](https://images.credly.com/size/110x110/images/0ba22331-acf9-4e8a-8ce3-b4cc3d376040/image.png)](http://www.credly.com/badges/25c0d45f-17cf-47ff-afe1-117a45308c1e)
 [![Microsoft Certified: Azure Network Engineer Associate](https://images.credly.com/size/110x110/images/c3a2e51d-7984-48cc-a4cb-88d4e848703b/azure-network-engineer-associate-600x600.png)](http://www.credly.com/badges/e21d4882-93a7-499d-837d-d0979a63c4f0)
-[![Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://images.credly.com/size/110x110/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png)](http://www.credly.com/badges/1df6d5bc-db65-4a41-b797-e5aef213fc99)
 [![Microsoft Sentinel Black Belt](https://images.credly.com/size/110x110/images/23d9f8d7-d662-4b93-b1b2-2fbe5b9e06e7/CREDLY_Microsoft_Sentinel_Black_Belt_V1.png)](http://www.credly.com/badges/28b47cc0-a5be-41c3-95a3-1237917fc633)
 [![L3 Microsoft Sentinel Influencer](https://images.credly.com/size/110x110/images/41b63430-ded3-4d19-994c-494e91821d3d/CREDLY_Microsoft_Cloud_Security_Digital_Badges_Sentinel_Influencer.png)](http://www.credly.com/badges/97ae9753-b447-47b1-9bb7-57efdda4a245)
 [![AZ-305: Designing Microsoft Azure Infrastructure Solutions](https://images.credly.com/size/110x110/images/9d7dc4c0-5681-41fc-b96b-26e9157786d7/image.png)](http://www.credly.com/badges/b88638fe-e44a-475e-96eb-5814aa271fd6)
