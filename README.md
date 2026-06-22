@@ -80,7 +80,7 @@ datatable(Attribute: string, Value: string)
     "Location",    "Sweden",
     "Focus",       "Defender XDR · Sentinel · Threat Hunting · Azure Security · GitHub Supply Chain",
     "OpenSource",  "Fylgyr · MET · DMARC for Defender XDR",
-    "Philosophy",  "Attack to understand. Understand to detect. Detect to automate.",
+    "Philosophy",  "Attack to understand. Understand to detect. Detect to automate."
 ]
 | project Attribute, Value
 ```
